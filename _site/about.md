@@ -1,3 +1,9 @@
-# about
+---
+title: "About"
+excerpt: "Some information"
 
-Everything is complicated
+---
+
+## About
+
+**Some information**
