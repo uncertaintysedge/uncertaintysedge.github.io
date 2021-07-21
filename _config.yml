@@ -1,1 +1,11 @@
+# Excluded files
+exclude: README.md
+
+# Site info
+url: "https://uncertaintysedge.github.io"
+title: "Uncertainty's Edge"
+name: "Uncertainty's Edge"
+description: "Everything is complicated"
+
+# Style
 theme: jekyll-theme-tactile
