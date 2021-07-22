@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty's Edge"
 excerpt: "Everyhing is complicated"
-
+permalink: "index.html"
 ---
 
 ## A personal homepage
