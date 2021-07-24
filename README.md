@@ -1,4 +1,4 @@
-# uncertaintysedge.github.io/jekyll-site
+# uncertaintysedge.github.io/
 
 Do words show up here?
 
