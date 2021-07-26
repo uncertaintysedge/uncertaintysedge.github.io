@@ -9,7 +9,7 @@ Do words show up here?
 3. 1&2 --> site is most external
 4. Possible writings: drafts, outlines(start draft), posts, essays(formal post)
 
-#### why jekyll?
+### why jekyll?
 
 1. Github hosting = familiar & free
 2. Every SSG has quiarks (i.e. innessential & arbitrary dependencies)
@@ -23,13 +23,18 @@ Do words show up here?
 4. Wordpress: beyond necessities (need to weight pros and cons of server dependence)   
 6. eleventy: considering this?
 
-### why not Medium?
+#### why not Medium?
 
-```
-Medium is an American online publishing platform developed by Evan Williams and launched in August 2012. It is owned by A Medium Corporation.[2] The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium,[3] and is regularly regarded as a blog host.
-```
+
+> Medium is an American online publishing platform developed by Evan Williams and launched in August 2012. It is owned by A Medium Corporation.[2] The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium,[3] and is regularly regarded as a blog host.
 
 [Source](https://en.wikipedia.org/wiki/Medium_%28website%29)
+
+#### why not eleventy?
+
+1. preaches lack of dependencies
+2. I don't care about client-side JavaScript
+3. JavaScript Frameworks and Libraries vs Ruby or Templating Langs.
 
 ## directory structure
 
