@@ -9,6 +9,6 @@ description: "Everything is complicated"
 markdown: kramdown
 
 # Style
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
 
 # Defaults
