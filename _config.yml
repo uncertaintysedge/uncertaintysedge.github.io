@@ -12,3 +12,9 @@ markdown: kramdown
 # theme: jekyll-theme-tactile
 
 # Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
