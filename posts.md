@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 excerpt: "Here are some posts"
-
+permalink: /posts/
 ---
 
 <ul>
