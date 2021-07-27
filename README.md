@@ -68,3 +68,17 @@ Do words show up here?
 ├── .jekyll-metadata
 └── index.html # can also be an 'index.md' with valid front matter
 ```
+
+## file names
+
+**leading underscores**
+
+>Web Pages framework has been configured not to allow files with leading underscores in their names from being requested directly.
+
+[Source](https://stackoverflow.com/questions/4576548/why-does-razor-layout-cshtml-have-a-leading-underscore-in-file-name)
+
+**leading periods**
+
+> Historically they are meant to be used for configuration files and directories. They are 'hidden' (the leading dot) by convention. The dot also makes sure that these files/directories are hidden from 'normal' operations (example: ls -l will not show them, ls -la will).
+
+[Source](https://www.linuxquestions.org/questions/linux-general-1/files-starting-with-period-722237/)
