@@ -4,8 +4,6 @@ excerpt: "Here are some posts"
 
 ---
 
-##posts
-
 <ul>
   {% for post in site.posts %}
     <li>
