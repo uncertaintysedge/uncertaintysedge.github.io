@@ -4,6 +4,4 @@ excerpt: "Some information"
 
 ---
 
-## About
-
 **Some information**
