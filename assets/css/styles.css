@@ -1,5 +1,6 @@
-body {
+* {
   background-color: lightblue;
+  font-family: ariel;
 }
 
 /* link */
