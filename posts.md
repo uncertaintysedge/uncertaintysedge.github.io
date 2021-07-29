@@ -7,7 +7,7 @@ permalink: /posts/
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }} {% raw %}{{ page.date | date: "%-m" }}{% endraw %}</a>
+      <a href="{{ post.url }}">{{ post.title }} {{ page.date }}</a>
     </li>
   {% endfor %}
 </ul>
