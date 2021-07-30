@@ -17,3 +17,12 @@ Title: Reciprocity Quotes
 **Passenger. (2012). "Life's for the Living." All the Little Lights.**
 
 > "Get what you need and give what you're given"
+
+**Rand, A. (1957). Atlas Shrugged.**
+
+> ""
+
+
+** Atwood, M. (1985). The Handmaid's Tale.**
+
+>"From each according to her ability; to each according to his need"
