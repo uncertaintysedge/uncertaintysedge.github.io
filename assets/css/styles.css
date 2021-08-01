@@ -1,33 +1,57 @@
 * {
   background-color: lightblue;
   font-family: Arial;
+  margin: 0;
+  padding: 0;
 }
 
-body {
-	margin: 3%;
-}
+/* align footer bottom */
+	html,
+	body {
+	  height: 100%;
+	}
 
-/* link */
-a {
-  text-decoration: none;
-}
+	#wrap {
+	  min-height: 100%;
+	}
 
-/* unvisited link */
-a:link {
-  color: red;
-}
+	#main {
+	  overflow: auto;
+	  padding-bottom: 180px;
+	  /* must be same height as the footer */
+	}
 
-/* visited link */
-a:visited {
-  color: green;
-}
+	#footer {
+	  position: relative;
+	  margin-top: -180px;
+	  /* negative value of footer height */
+	  height: 180px;
+	  clear: both;
+	  background-color: red;
+	}
 
-/* mouse over link */
-a:hover {
-  color: hotpink;
-}
+/* link styles */
+	/* underline */
+	a {
+	  text-decoration: none;
+	}
 
-/* selected link */
-a:active {
-  color: blue;
-}
+	/* unvisited link */
+	a:link {
+	  color: red;
+	}
+
+	/* visited link */
+	a:visited {
+	  color: green;
+	}
+
+	/* mouse over link */
+	a:hover {
+	  color: hotpink;
+	}
+
+	/* selected link */
+	a:active {
+	  color: blue;
+	}
