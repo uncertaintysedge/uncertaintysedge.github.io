@@ -21,13 +21,19 @@
 	  /* must be same height as the footer */
 	}
 
+	#header {
+		background-color: pink;
+		text-align: center;
+	}
+
 	#footer {
-	  position: relative;
-	  margin-top: -180px;
-	  /* negative value of footer height */
-	  height: 180px;
-	  clear: both;
-	  background-color: red;
+		text-align: center;
+	  	position: relative;
+		margin-top: -180px;
+		/* negative value of footer height */
+		height: 180px;
+		clear: both;
+		background-color: pink;
 	}
 
 /* link styles */
