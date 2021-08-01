@@ -35,6 +35,9 @@
 		clear: both;
 		background-color: pink;
 	}
+	p {
+		background-color: lightblue;
+	}
 
 /* link styles */
 	/* underline */
