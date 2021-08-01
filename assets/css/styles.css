@@ -21,12 +21,12 @@
 	  /* must be same height as the footer */
 	}
 
-	#header {
+	header {
 		background-color: pink;
 		text-align: center;
 	}
 
-	#footer {
+	footer {
 		text-align: center;
 	  	position: relative;
 		margin-top: -180px;
