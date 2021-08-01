@@ -1,5 +1,5 @@
 ---
-Title: Reciprocity Quotes
+Title: Reciprocity Quotes - Good and Bad
 ---
 
 **NASB Acts 11:29** 
