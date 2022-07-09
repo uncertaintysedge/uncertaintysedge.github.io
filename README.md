@@ -1,4 +1,13 @@
 # uncertaintysedge.github.io/
+# 2022
+
+<p><a href="https://stackoverflow.com/a/27481279/19516409">Harp</a> is for static-website generation via <a href="https://nodejs.org/en/">Node.js</a></p>
+
+<p>I prefer <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> to <a href="https://www.ruby-lang.org/en/">Ruby</a></p>
+
+<hr />
+
+# 2020
 
 Do words show up here?
 
