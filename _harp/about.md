@@ -1,3 +1,3 @@
-# About Kenneth
+# About Uncertainty's Edge
 
-Hi, I’m Kenneth. Sometimes I write about building things with [Harp](http://harpjs.com).
+Made by [Uncertainty's Edge]() using [Harp](http://harpjs.com) via [Kenneth]()'s Instructions.
