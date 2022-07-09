@@ -5,6 +5,17 @@
 
 <p>I prefer <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> to <a href="https://www.ruby-lang.org/en/">Ruby</a></p>
 
+<pre>
+
+<code>
+cd /Projects/uncertaintysedge.github.io
+harp compile _harp ./
+git add -A
+git commit -a -m "First Harp + Pages commit"
+git push origin master
+</code>
+</pre>
+
 <hr />
 
 # 2020
