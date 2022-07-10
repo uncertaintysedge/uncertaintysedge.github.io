@@ -17,8 +17,21 @@
 		<link href="https://uncertaintysedge.github.io/posts/test-html/"/>
 		<updated>2022-07-10T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/test-html/</id>
-		<content type="html">&lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;
-&lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;Source&lt;/a&gt;
+		<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot; /&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+  &lt;title&gt;HTML 5 Boilerplate&lt;/title&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+  &lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+  &lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;Source&lt;/a&gt;
+&lt;/body&gt;
+
+&lt;/html&gt;
 </content>
 	</entry>
 	

@@ -13,7 +13,7 @@
       "id": "https://uncertaintysedge.github.io/posts/test-html/",
       "url": "https://uncertaintysedge.github.io/posts/test-html/",
       "title": "Test html",
-      "content_html": "<iframe src=\"https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf\"></iframe>\r\n<a href=\"https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf\">Source</a>\r\n",
+      "content_html": "<!DOCTYPE html>\r\n<html lang=\"en\">\r\n\r\n<head>\r\n  <meta charset=\"UTF-8\" />\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\r\n  <title>HTML 5 Boilerplate</title>\r\n</head>\r\n\r\n<body>\r\n  <iframe src=\"https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf\"></iframe><br />\r\n  <a href=\"https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf\">Source</a>\r\n</body>\r\n\r\n</html>\r\n",
       "date_published": "2022-07-10T00:00:00Z"
     },{
       "id": "https://uncertaintysedge.github.io/posts/fourthpost/",
