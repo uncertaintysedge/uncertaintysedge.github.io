@@ -3,8 +3,6 @@
 
 <p><a href="https://stackoverflow.com/a/27481279/19516409">Harp</a> is for static-website generation via <a href="https://nodejs.org/en/">Node.js</a>, a niche part of a fair sized community</p>
 
-<p>Unfortunately, Harp is also not up to date. I am reconsidering <a href="https://www.11ty.dev/">eleventy</a></p>
-
 <p>I prefer <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> to <a href="https://www.ruby-lang.org/en/">Ruby</a></p>
 
 <pre>
