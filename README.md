@@ -1,106 +1,83 @@
-# uncertaintysedge.github.io/
-# 2022
+# eleventy-base-blog
 
-<p><a href="https://stackoverflow.com/a/27481279/19516409">Harp</a> is for static-website generation via <a href="https://nodejs.org/en/">Node.js</a>, a niche part of a fair sized community</p>
+A starter repository showing how to build a blog with the [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
-<p>Unfortunately, Harp is also not up to date. I am reconsidering <a href="https://www.11ty.dev/">eleventy</a></p>
+[![Build Status](https://travis-ci.org/11ty/eleventy-base-blog.svg?branch=master)](https://travis-ci.org/11ty/eleventy-base-blog)
 
-<p>I prefer <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> to <a href="https://www.ruby-lang.org/en/">Ruby</a></p>
+## Demos
 
-<pre>
+- [Netlify](https://eleventy-base-blog.netlify.com/)
+- [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
+- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
 
-<code>
-cd /Projects/uncertaintysedge.github.io
-harp compile _harp ./
-git add -A
-git commit -a -m "First Harp + Pages commit"
-git push origin master
-</code>
-</pre>
+## Deploy this to your own site
 
-<hr />
+Deploy this Eleventy site in just a few clicks on these services:
 
-# 2020
+- [Get your own Eleventy web site on Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
+- [Get your own Eleventy web site on Vercel](https://vercel.com/import/project?template=11ty%2Feleventy-base-blog)
 
-Do words show up here?
+Or, read more about [Deploying an Eleventy project](https://www.11ty.dev/docs/deployment/).
 
-## why make static site?
+## Getting Started
 
-1. Organize
-2. Possible methods: site vs. journal vs. documents
-3. 1&2 --> site is most external
-4. Possible writings: drafts, outlines(start draft), posts, essays(formal post)
-
-### why jekyll?
-
-1. Github hosting = familiar & free
-2. Every SSG has quiarks (i.e. innessential & arbitrary dependencies)
-3. lost in details of JAMstack --> provides arbitrary structure
-
-### why not alternatives?
-
-1. Medium & Tumblr: No
-2. Blogger: createive deadend
-3. Wix: No
-4. Wordpress: beyond necessities (need to weight pros and cons of server dependence)   
-6. eleventy: considering this?
-
-#### why not Medium?
-
-
-> Medium is an American online publishing platform developed by Evan Williams and launched in August 2012. It is owned by A Medium Corporation.[2] The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium,[3] and is regularly regarded as a blog host.
-
-[Source](https://en.wikipedia.org/wiki/Medium_%28website%29)
-
-#### why not eleventy?
-
-1. preaches lack of dependencies
-2. I don't care about client-side JavaScript
-3. JavaScript Frameworks and Libraries vs Ruby or Templating Langs.
-
-## directory structure
-
-[Source](https://jekyllrb.com/docs/structure/)
+### 1. Clone this Repository
 
 ```
-.
-├── _config.yml
-├── _data
-│   └── members.yml
-├── _drafts
-│   ├── begin-with-the-crazy-ideas.md
-│   └── on-simplicity-in-technology.md
-├── _includes
-│   ├── footer.html
-│   └── header.html
-├── _layouts
-│   ├── default.html
-│   └── post.html
-├── _posts
-│   ├── 2007-10-29-why-every-programmer-should-play-nethack.md
-│   └── 2009-04-26-barcamp-boston-4-roundup.md
-├── _sass
-│   ├── _base.scss
-│   └── _layout.scss
-├── _site
-├── .jekyll-cache
-│   └── Jekyll
-│       └── Cache
-│           └── [...]
-├── .jekyll-metadata
-└── index.html # can also be an 'index.md' with valid front matter
+git clone https://github.com/11ty/eleventy-base-blog.git my-blog-name
 ```
 
-## file names
+### 2. Navigate to the directory
 
-**leading underscores**
+```
+cd my-blog-name
+```
 
->Web Pages framework has been configured not to allow files with leading underscores in their names from being requested directly.
+Specifically have a look at `.eleventy.js` to see if you want to configure any Eleventy options differently.
 
-[Source](https://stackoverflow.com/questions/4576548/why-does-razor-layout-cshtml-have-a-leading-underscore-in-file-name)
+### 3. Install dependencies
 
-**leading periods**
+```
+npm install
+```
 
-> Historically they are meant to be used for configuration files and directories. They are 'hidden' (the leading dot) by convention. The dot also makes sure that these files/directories are hidden from 'normal' operations (example: ls -l will not show them, ls -la will).
+### 4. Edit \_data/metadata.json
 
-[Source](https://www.linuxquestions.org/questions/linux-general-1/files-starting-with-period-722237/)
+### 5. Run Eleventy
+
+```
+npx @11ty/eleventy
+```
+
+Or build and host locally for local development
+
+```
+npx @11ty/eleventy --serve
+```
+
+Or build automatically when a template changes:
+
+```
+npx @11ty/eleventy --watch
+```
+
+Or in debug mode:
+
+```
+DEBUG=* npx @11ty/eleventy
+```
+
+### Implementation Notes
+
+- `about/index.md` shows how to add a content page.
+- `posts/` has the blog posts but really they can live in any directory. They need only the `post` tag to be added to this collection.
+- Use the `eleventyNavigation` key in your front matter to add a template to the top level site navigation. For example, this is in use on `index.njk` and `about/index.md`.
+- Content can be any template format (blog posts needn’t be markdown, for example). Configure your supported templates in `.eleventy.js` -> `templateFormats`.
+- The `css` and `img` directories in the input directory will be copied to the output folder (via `addPassthroughCopy()` in the `.eleventy.js` file).
+- The blog post feed template is in `feed/feed.njk`. This is also a good example of using a global data files in that it uses `_data/metadata.json`.
+- This example uses three layouts:
+  - `_includes/layouts/base.njk`: the top level HTML structure
+  - `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
+  - `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
+- `_includes/postlist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `index.njk` has an example of how to use it.
+
