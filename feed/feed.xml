@@ -5,7 +5,7 @@
 	
 	<link href="https://uncertaintysedge.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://uncertaintysedge.github.io/"/>
-	<updated>2018-09-30T00:00:00Z</updated>
+	<updated>2022-07-10T00:00:00Z</updated>
 	<id>https://uncertaintysedge.github.io/</id>
 	<author>
 		<name>Uncertainty&#39;s Edge</name>
@@ -13,7 +13,17 @@
 	</author>
 	
 	<entry>
-		<title>This is my fourth post.</title>
+		<title>Test html</title>
+		<link href="https://uncertaintysedge.github.io/posts/test-html/"/>
+		<updated>2022-07-10T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/test-html/</id>
+		<content type="html">&lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;
+&lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;Source&lt;/a&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Example fourth post.</title>
 		<link href="https://uncertaintysedge.github.io/posts/fourthpost/"/>
 		<updated>2018-09-30T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/fourthpost/</id>
@@ -25,7 +35,7 @@
 	</entry>
 	
 	<entry>
-		<title>This is my third post.</title>
+		<title>Example third post.</title>
 		<link href="https://uncertaintysedge.github.io/posts/thirdpost/"/>
 		<updated>2018-08-24T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/thirdpost/</id>
@@ -38,7 +48,7 @@
 	</entry>
 	
 	<entry>
-		<title>This is my second post.</title>
+		<title>Example second post.</title>
 		<link href="https://uncertaintysedge.github.io/posts/secondpost/"/>
 		<updated>2018-07-04T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/secondpost/</id>
@@ -52,7 +62,7 @@
 	</entry>
 	
 	<entry>
-		<title>This is my first post.</title>
+		<title>Example first post.</title>
 		<link href="https://uncertaintysedge.github.io/posts/firstpost/"/>
 		<updated>2018-05-01T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/firstpost/</id>

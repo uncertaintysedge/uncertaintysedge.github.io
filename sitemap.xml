@@ -22,6 +22,11 @@
   </url>
   
   <url>
+    <loc>https://uncertaintysedge.github.io/posts/test-html/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uncertaintysedge.github.io/about/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
@@ -42,7 +47,12 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/test/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -52,12 +62,12 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
