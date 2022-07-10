@@ -1,0 +1,24 @@
+{
+  "title": "Uncertainty's Edge",
+  "url": "https://uncertaintysedge.github.io/",
+  "language": "en",
+  "description": "Uncertainty's Edge",
+  "feed":
+  {
+    "subtitle": "Uncertainty's Edge",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://uncertaintysedge.github.io/"
+  },
+  "jsonfeed":
+  {
+    "path": "/feed/feed.json",
+    "url": "https://uncertaintysedge.github.io/feed/feed.json"
+  },
+  "author":
+  {
+    "name": "Uncertainty's Edge",
+    "email": "uncertaintysedge@example.com",
+    "url": "https://uncertaintysedge.github.io/about-me/"
+  }
+}
