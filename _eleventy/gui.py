@@ -36,7 +36,7 @@ def test():
 		system("git pull")
 		system("git add -A")
 		system("git commit -m " + msg.get())
-		system("git push")
+		system("git push -u master")
 		system("cd _eleventy")
 
 	build_serve_button = ttk.Button(root, text="Build & Serve", default="active", command=build_serve)
