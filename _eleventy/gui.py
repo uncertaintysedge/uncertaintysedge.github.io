@@ -33,9 +33,9 @@ def test():
 		system("cd ../")
 		system("cd")
 		system("git pull")
-		system("git remote add --master https://github.com/uncertaintysedge/uncertaintysedge.github.io.git")
+		system("git add -A")
 		system('git commit -m "{}"'.format(msg.get()))
-		system("git push -u master")
+		system("git push")
 		system("cd _eleventy")
 
 	build_serve_button = ttk.Button(root, text="Build & Serve", default="active", command=build_serve)
