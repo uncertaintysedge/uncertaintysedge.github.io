@@ -62,7 +62,12 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/math/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/test/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -72,22 +77,17 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/math/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/test/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -99,5 +99,10 @@
   <url>
     <loc>https://uncertaintysedge.github.io/posts/math/tax/</loc>
     <lastmod>2022-07-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/lin-quo/</loc>
+    <lastmod>2022-07-29</lastmod>
   </url>
 </urlset>
