@@ -2,4 +2,4 @@
 
 [uncertaintysedge.github.io](uncertaintysedge.github.io)
 
-a site for "web content"
+[more info](https://uncertaintysedge.github.io/about/) 
