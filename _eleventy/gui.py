@@ -51,12 +51,12 @@ def test():
 
 	msg = StringVar()
 	msg_entry = ttk.Entry(root, width=7, textvariable=msg)
-	msg_entry.grid(column=3, row=1)
+	msg_entry.grid(column=2, row=2)
 
 	git_button = ttk.Button(root, text="Git", default="disabled", command=git)
 	
 	build_serve_button.grid(row=1, column=1)
-	git_button.grid(row=1, column=2)
+	git_button.grid(row=2, column=1)
 
 	root.mainloop()
 
