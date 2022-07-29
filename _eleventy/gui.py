@@ -52,7 +52,7 @@ def test():
 	msg_entry = ttk.Entry(root, width=7, textvariable=msg)
 	msg_entry.grid(column=3, row=1)
 
-	git_button = ttk.Button(root, text="Git", default="active", command=git)
+	git_button = ttk.Button(root, text="Git", default="disabled", command=git)
 	
 	build_serve_button.grid(row=1, column=1)
 	git_button.grid(row=1, column=2)
