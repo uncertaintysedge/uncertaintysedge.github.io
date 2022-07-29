@@ -10,7 +10,7 @@ from tkinter import ttk
 import subprocess
 import sys
 
-def test():
+def main():
 	# https://stackoverflow.com/a/19719292
 	# if not admin.isUserAdmin():
 	#     admin.runAsAdmin()
@@ -33,6 +33,7 @@ def test():
 		subprocess.call(["cd"], cwd=_eleventy, shell=True)
 		subprocess.call(["npx.cmd", "@11ty/eleventy"], cwd=_eleventy, shell=True)
 		subprocess.call(["npm.cmd", "run", "s"], cwd=_eleventy, shell=True)
+		return 0
 
 	blog_dir = r"C:\root\uncertaintysedge.github.io"
 	def git():
@@ -42,10 +43,7 @@ def test():
 		subprocess.call(['git', 'commit', '-m', '"{}"'.format(msg.get())], cwd=blog_dir, shell=True)
 		subprocess.call("git push".split(), cwd=blog_dir, shell=True)
 		subprocess.call(["echo", "...completed"], cwd=_eleventy, shell=True)
-		# call("git pull")
-		# call("git add -A")
-		# call('git commit -m "{}"'.format(msg.get()))
-		# call("git push")
+		return 0
 
 	build_serve_button = ttk.Button(root, text="Build & Serve", default="active", command=build_serve)
 
@@ -61,4 +59,4 @@ def test():
 	root.mainloop()
 
 if __name__ == "__main__":
-    sys.exit(test())
+    sys.exit(main())

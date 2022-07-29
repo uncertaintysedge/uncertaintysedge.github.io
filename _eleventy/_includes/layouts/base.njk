@@ -21,7 +21,8 @@
 
 <body>
   <header>
-    <h1 class="home"><a href="{{ '/' | url }}"><img src="{{metadata.logo.path}}"></img> {{ metadata.title }}</a></h1>
+    {# <img src="{{metadata.logo.path}}" style="height: 2rem; width: 2rem;"></img> #}
+    <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
     {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
     <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
