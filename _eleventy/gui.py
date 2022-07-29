@@ -33,7 +33,7 @@ def test():
 		system("cd ../")
 		system("cd")
 		system("git pull")
-		system("git add -A")
+		system("git remote add --master https://github.com/uncertaintysedge/uncertaintysedge.github.io.git")
 		system('git commit -m "{}"'.format(msg.get()))
 		system("git push -u master")
 		system("cd _eleventy")
