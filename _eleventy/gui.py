@@ -32,9 +32,10 @@ def test():
 
 	def git(*args):
 		system("cd ../")
+		system("cd")
 		system("git pull")
 		system("git add -A")
-		system("git commit -a -m " + msg.get())
+		system("git commit -m " + msg.get())
 		system("git push")
 		system("cd _eleventy")
 
