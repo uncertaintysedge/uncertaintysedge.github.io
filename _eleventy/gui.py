@@ -32,6 +32,7 @@ def test():
 	def git(*args):
 		system("cd ../")
 		system("cd")
+		system('echo directory changed')
 		system("git pull")
 		system("git add -A")
 		system('git commit -m "{}"'.format(msg.get()))
