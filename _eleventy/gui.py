@@ -7,7 +7,7 @@
 from tkinter import *
 from tkinter import ttk
 
-from os import system
+import subprocess
 import sys
 
 def test():
@@ -24,21 +24,27 @@ def test():
 	# root.rowconfigure(0, weight=1)
 	root.geometry("300x100")
 
+	_eleventy = r"C:\root\uncertaintysedge.github.io\_eleventy"
 	def build_serve():
-		# system("""echo Starting""")
-		# system("""npx @11ty/eleventy""")
-		# system("""npm run s""")
-		system(" 'echo Starting' + 'npx @11ty/eleventy' + 'npm run s' ")
+		# os.system("""echo Starting""")
+		# os.system("""npx @11ty/eleventy""")
+		# 0s.system("""npm run s""")
+		subprocess.call(["echo", "starting..."], cwd=_eleventy, shell=True)
+		subprocess.call(["cd"], cwd=_eleventy, shell=True)
+		subprocess.call(["npx.cmd", "@11ty/eleventy"], cwd=_eleventy, shell=True)
+		subprocess.call(["npm.cmd", "run", "s"], cwd=_eleventy, shell=True)
 
-	def git(*args):
-		system("cd ../")
-		system("cd")
-		system('echo directory changed')
-		system("git pull")
-		system("git add -A")
-		system('git commit -m "{}"'.format(msg.get()))
-		system("git push")
-		system("cd _eleventy")
+	blog_dir = r"C:\root\uncertaintysedge.github.io"
+	def git():
+		subprocess.call(["cd"], cwd=blog_dir, shell=True)
+		subprocess.call("git pull".split(), cwd=blog_dir, shell=True)
+		subprocess.call("git add -A".split(), cwd=blog_dir, shell=True)
+		subprocess.call(['git', 'commit', '-m', '"{}"'.format(msg.get())], cwd=blog_dir, shell=True)
+		subprocess.call(["git push".split()], cwd=blog_dir, shell=True)
+		# call("git pull")
+		# call("git add -A")
+		# call('git commit -m "{}"'.format(msg.get()))
+		# call("git push")
 
 	build_serve_button = ttk.Button(root, text="Build & Serve", default="active", command=build_serve)
 
