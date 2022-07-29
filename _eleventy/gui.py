@@ -28,9 +28,7 @@ def test():
 		# system("""echo Starting""")
 		# system("""npx @11ty/eleventy""")
 		# system("""npm run s""")
-		system("""echo Starting
-		npx @11ty/eleventy
-		npm run s""")
+		system(" 'echo Starting' + 'npx @11ty/eleventy' + 'npm run s' ")
 
 	def git(*args):
 		system("cd ../")
