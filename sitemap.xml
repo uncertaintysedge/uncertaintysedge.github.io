@@ -22,7 +22,22 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/posts/test-html/</loc>
+    <loc>https://uncertaintysedge.github.io/posts/math/long-integral/</loc>
+    <lastmod>2022-04-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/func/</loc>
+    <lastmod>2022-07-03</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/abstract/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/test-html/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -57,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/test/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -67,12 +82,22 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
+    <loc>https://uncertaintysedge.github.io/tags/math/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/test/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
     <loc>https://uncertaintysedge.github.io/tags/</loc>
     <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/tax/</loc>
+    <lastmod>2022-07-16</lastmod>
   </url>
 </urlset>

@@ -45,6 +45,7 @@ body {
   font-family: var(--font-family);
   color: var(--text-color);
   background-color: var(--background-color);
+  min-height:100vh;
 }
 
 p:last-child {
@@ -68,13 +69,14 @@ a[href]:visited {
 }
 
 main {
-  padding: 1rem;
+  padding: 2rem;
 }
 main :first-child {
   margin-top: 0;
 }
 header {
-  border-bottom: 1px dashed var(--color-gray-20);
+  border-bottom: 2px var(--color-gray-50);
+  min-height: 2.5rem;
 }
 header:after {
   content: "";
@@ -115,6 +117,22 @@ pre {
 }
 code {
   word-break: break-all;
+}
+
+footer{
+  border-top: 2px var(--color-gray-50);
+  bottom: 0;
+  min-height: 2.5rem;
+  padding:  1rem;
+}
+
+body{ 
+  display:flex; 
+  flex-direction:column; 
+}
+
+footer{
+  margin-top:auto; 
 }
 
 /* Header */

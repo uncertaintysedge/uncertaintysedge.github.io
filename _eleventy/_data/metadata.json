@@ -3,6 +3,11 @@
   "url": "https://uncertaintysedge.github.io/",
   "language": "en",
   "description": "Uncertainty's Edge",
+  "logo":
+  {
+    "filename": "logo.svg",
+    "path": "/img/logo.svg"
+  },
   "feed":
   {
     "subtitle": "Uncertainty's Edge",

@@ -7,4 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+# The Author
+* Welcome to my "content site"
+
+# The Website
+* Generated with [11ty](https://www.11ty.dev/)
+* Icons from [Bootstrap](https://icons.getbootstrap.com/)

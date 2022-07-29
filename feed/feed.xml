@@ -5,7 +5,7 @@
 	
 	<link href="https://uncertaintysedge.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://uncertaintysedge.github.io/"/>
-	<updated>2022-07-10T00:00:00Z</updated>
+	<updated>2022-07-16T00:00:00Z</updated>
 	<id>https://uncertaintysedge.github.io/</id>
 	<author>
 		<name>Uncertainty&#39;s Edge</name>
@@ -13,25 +13,874 @@
 	</author>
 	
 	<entry>
-		<title>Test html</title>
-		<link href="https://uncertaintysedge.github.io/posts/test-html/"/>
+		<title>Math Taxonomy</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/tax/"/>
+		<updated>2022-07-16T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/math/tax/</id>
+		<content type="html">  &lt;h2&gt;Quanta&#39;s Map&lt;/h2&gt;
+  &lt;a href=&quot;https://mathmap.quantamagazine.org/map&quot;&gt;source&lt;/a&gt;&lt;br /&gt;
+  &lt;iframe height=&quot;600&quot; width=&quot;1000&quot; src=&quot;https://mathmap.quantamagazine.org/map&quot;&gt;&lt;/iframe&gt;
+      &lt;hr /&gt;
+      &lt;h2&gt;Domain of Science Map&lt;/h2&gt;
+      &lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/95869671@N08/32264483720&quot; title=&quot;Map of Mathematics Poster&quot;&gt;&lt;img src=&quot;https://live.staticflickr.com/272/32264483720_0be41eb9d1_k.jpg&quot; alt=&quot;Map of Mathematics Poster&quot; /&gt;&lt;/a&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+      &lt;hr /&gt;
+        &lt;h2&gt;My Final Visual&lt;/h2&gt;
+        &lt;p&gt;Tap or click to interact!&lt;/p&gt;
+        &lt;!-- PLOTLY OUTPUT --&gt;
+        &lt;div&gt;                        &lt;script type=&quot;text/javascript&quot;&gt;window.PlotlyConfig = {MathJaxConfig: &#39;local&#39;};&lt;/script&gt;
+            &lt;script src=&quot;https://cdn.plot.ly/plotly-2.8.3.min.js&quot;&gt;&lt;/script&gt;                &lt;div id=&quot;a9240c6c-37ff-4f48-b622-c68e751e2bd8&quot; class=&quot;plotly-graph-div&quot; style=&quot;height:100%; width:100%;&quot;&gt;&lt;/div&gt;            &lt;script type=&quot;text/javascript&quot;&gt;                                    window.PLOTLYENV=window.PLOTLYENV || {};                                    if (document.getElementById(&quot;a9240c6c-37ff-4f48-b622-c68e751e2bd8&quot;)) {                    Plotly.newPlot(                        &quot;a9240c6c-37ff-4f48-b622-c68e751e2bd8&quot;,                        [{&quot;ids&quot;:[&quot;0&quot;,&quot;1&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;,&quot;5&quot;,&quot;6&quot;,&quot;7&quot;,&quot;8&quot;,&quot;9&quot;,&quot;10&quot;,&quot;11&quot;,&quot;12&quot;,&quot;83&quot;,&quot;84&quot;,&quot;85&quot;,&quot;86&quot;,&quot;87&quot;,&quot;88&quot;,&quot;89&quot;,&quot;90&quot;,&quot;293&quot;,&quot;294&quot;,&quot;295&quot;,&quot;296&quot;,&quot;297&quot;,&quot;13&quot;,&quot;91&quot;,&quot;298&quot;,&quot;299&quot;,&quot;300&quot;,&quot;301&quot;,&quot;302&quot;,&quot;303&quot;,&quot;304&quot;,&quot;305&quot;,&quot;306&quot;,&quot;92&quot;,&quot;307&quot;,&quot;308&quot;,&quot;309&quot;,&quot;310&quot;,&quot;311&quot;,&quot;312&quot;,&quot;93&quot;,&quot;313&quot;,&quot;314&quot;,&quot;315&quot;,&quot;316&quot;,&quot;317&quot;,&quot;94&quot;,&quot;95&quot;,&quot;318&quot;,&quot;319&quot;,&quot;320&quot;,&quot;321&quot;,&quot;322&quot;,&quot;14&quot;,&quot;96&quot;,&quot;97&quot;,&quot;98&quot;,&quot;99&quot;,&quot;15&quot;,&quot;100&quot;,&quot;323&quot;,&quot;324&quot;,&quot;325&quot;,&quot;101&quot;,&quot;326&quot;,&quot;327&quot;,&quot;328&quot;,&quot;102&quot;,&quot;329&quot;,&quot;330&quot;,&quot;331&quot;,&quot;332&quot;,&quot;103&quot;,&quot;104&quot;,&quot;105&quot;,&quot;106&quot;,&quot;107&quot;,&quot;108&quot;,&quot;109&quot;,&quot;16&quot;,&quot;110&quot;,&quot;111&quot;,&quot;112&quot;,&quot;17&quot;,&quot;113&quot;,&quot;114&quot;,&quot;115&quot;,&quot;116&quot;,&quot;18&quot;,&quot;19&quot;,&quot;20&quot;,&quot;117&quot;,&quot;118&quot;,&quot;119&quot;,&quot;333&quot;,&quot;334&quot;,&quot;335&quot;,&quot;336&quot;,&quot;337&quot;,&quot;338&quot;,&quot;339&quot;,&quot;340&quot;,&quot;120&quot;,&quot;341&quot;,&quot;342&quot;,&quot;343&quot;,&quot;344&quot;,&quot;345&quot;,&quot;346&quot;,&quot;347&quot;,&quot;121&quot;,&quot;122&quot;,&quot;123&quot;,&quot;124&quot;,&quot;21&quot;,&quot;125&quot;,&quot;126&quot;,&quot;127&quot;,&quot;128&quot;,&quot;129&quot;,&quot;130&quot;,&quot;131&quot;,&quot;22&quot;,&quot;132&quot;,&quot;133&quot;,&quot;134&quot;,&quot;135&quot;,&quot;136&quot;,&quot;23&quot;,&quot;137&quot;,&quot;138&quot;,&quot;348&quot;,&quot;349&quot;,&quot;350&quot;,&quot;139&quot;,&quot;140&quot;,&quot;141&quot;,&quot;142&quot;,&quot;143&quot;,&quot;144&quot;,&quot;24&quot;,&quot;25&quot;,&quot;26&quot;,&quot;27&quot;,&quot;28&quot;,&quot;29&quot;,&quot;145&quot;,&quot;146&quot;,&quot;30&quot;,&quot;31&quot;,&quot;32&quot;,&quot;33&quot;,&quot;34&quot;,&quot;35&quot;,&quot;36&quot;,&quot;037&quot;,&quot;38&quot;,&quot;39&quot;,&quot;147&quot;,&quot;148&quot;,&quot;149&quot;,&quot;150&quot;,&quot;351&quot;,&quot;352&quot;,&quot;353&quot;,&quot;354&quot;,&quot;151&quot;,&quot;355&quot;,&quot;356&quot;,&quot;357&quot;,&quot;358&quot;,&quot;359&quot;,&quot;152&quot;,&quot;153&quot;,&quot;360&quot;,&quot;361&quot;,&quot;362&quot;,&quot;363&quot;,&quot;154&quot;,&quot;364&quot;,&quot;365&quot;,&quot;366&quot;,&quot;367&quot;,&quot;40&quot;,&quot;155&quot;,&quot;156&quot;,&quot;157&quot;,&quot;158&quot;,&quot;159&quot;,&quot;160&quot;,&quot;161&quot;,&quot;41&quot;,&quot;162&quot;,&quot;163&quot;,&quot;164&quot;,&quot;165&quot;,&quot;166&quot;,&quot;167&quot;,&quot;168&quot;,&quot;169&quot;,&quot;170&quot;,&quot;42&quot;,&quot;43&quot;,&quot;44&quot;,&quot;45&quot;,&quot;171&quot;,&quot;172&quot;,&quot;173&quot;,&quot;174&quot;,&quot;46&quot;,&quot;175&quot;,&quot;176&quot;,&quot;177&quot;,&quot;178&quot;,&quot;179&quot;,&quot;180&quot;,&quot;181&quot;,&quot;47&quot;,&quot;48&quot;,&quot;182&quot;,&quot;183&quot;,&quot;184&quot;,&quot;185&quot;,&quot;186&quot;,&quot;187&quot;,&quot;49&quot;,&quot;188&quot;,&quot;189&quot;,&quot;190&quot;,&quot;191&quot;,&quot;192&quot;,&quot;193&quot;,&quot;50&quot;,&quot;194&quot;,&quot;195&quot;,&quot;196&quot;,&quot;197&quot;,&quot;198&quot;,&quot;199&quot;,&quot;200&quot;,&quot;201&quot;,&quot;51&quot;,&quot;52&quot;,&quot;53&quot;,&quot;54&quot;,&quot;202&quot;,&quot;203&quot;,&quot;204&quot;,&quot;205&quot;,&quot;206&quot;,&quot;207&quot;,&quot;55&quot;,&quot;208&quot;,&quot;209&quot;,&quot;210&quot;,&quot;211&quot;,&quot;212&quot;,&quot;213&quot;,&quot;214&quot;,&quot;56&quot;,&quot;215&quot;,&quot;216&quot;,&quot;217&quot;,&quot;218&quot;,&quot;219&quot;,&quot;220&quot;,&quot;221&quot;,&quot;222&quot;,&quot;57&quot;,&quot;223&quot;,&quot;224&quot;,&quot;225&quot;,&quot;226&quot;,&quot;227&quot;,&quot;58&quot;,&quot;228&quot;,&quot;229&quot;,&quot;230&quot;,&quot;231&quot;,&quot;232&quot;,&quot;59&quot;,&quot;233&quot;,&quot;234&quot;,&quot;235&quot;,&quot;236&quot;,&quot;237&quot;,&quot;238&quot;,&quot;239&quot;,&quot;60&quot;,&quot;61&quot;,&quot;62&quot;,&quot;240&quot;,&quot;241&quot;,&quot;242&quot;,&quot;243&quot;,&quot;244&quot;,&quot;245&quot;,&quot;246&quot;,&quot;247&quot;,&quot;248&quot;,&quot;63&quot;,&quot;249&quot;,&quot;250&quot;,&quot;251&quot;,&quot;252&quot;,&quot;253&quot;,&quot;254&quot;,&quot;255&quot;,&quot;256&quot;,&quot;257&quot;,&quot;64&quot;,&quot;258&quot;,&quot;259&quot;,&quot;260&quot;,&quot;261&quot;,&quot;262&quot;,&quot;65&quot;,&quot;263&quot;,&quot;264&quot;,&quot;265&quot;,&quot;266&quot;,&quot;267&quot;,&quot;268&quot;,&quot;269&quot;,&quot;270&quot;,&quot;271&quot;,&quot;66&quot;,&quot;272&quot;,&quot;273&quot;,&quot;274&quot;,&quot;67&quot;,&quot;275&quot;,&quot;368&quot;,&quot;369&quot;,&quot;276&quot;,&quot;370&quot;,&quot;371&quot;,&quot;68&quot;,&quot;277&quot;,&quot;278&quot;,&quot;279&quot;,&quot;280&quot;,&quot;281&quot;,&quot;282&quot;,&quot;283&quot;,&quot;284&quot;,&quot;285&quot;,&quot;69&quot;,&quot;286&quot;,&quot;372&quot;,&quot;373&quot;,&quot;374&quot;,&quot;375&quot;,&quot;287&quot;,&quot;376&quot;,&quot;377&quot;,&quot;378&quot;,&quot;288&quot;,&quot;379&quot;,&quot;380&quot;,&quot;289&quot;,&quot;381&quot;,&quot;382&quot;,&quot;383&quot;,&quot;290&quot;,&quot;384&quot;,&quot;385&quot;,&quot;386&quot;,&quot;291&quot;,&quot;292&quot;,&quot;70&quot;,&quot;71&quot;,&quot;72&quot;,&quot;73&quot;,&quot;74&quot;,&quot;75&quot;,&quot;76&quot;,&quot;77&quot;,&quot;78&quot;,&quot;79&quot;,&quot;80&quot;,&quot;81&quot;,&quot;82&quot;],&quot;labels&quot;:[&quot;Math Topics&quot;,&quot;Numbers&lt;br&gt;and&lt;br&gt;Computation&quot;,&quot;Logic&lt;br&gt;and&lt;br&gt;Foundations&quot;,&quot;Algebra&lt;br&gt;and&lt;br&gt;Number&lt;br&gt;Theory&quot;,&quot;Discrete&lt;br&gt;Mathematics&quot;,&quot;Geometry&lt;br&gt;and&lt;br&gt;Topology&quot;,&quot;Calculus&quot;,&quot;Analysis&quot;,&quot;Differential&lt;br&gt;and&lt;br&gt;Difference&lt;br&gt;Equations&quot;,&quot;Statistics&lt;br&gt;and&lt;br&gt;Probability&quot;,&quot;Applied&lt;br&gt;Mathematics&quot;,&quot;Mathematics&lt;br&gt;History&quot;,&quot;Number&lt;br&gt;Concepts&quot;,&quot;Natural&quot;,&quot;Integers&quot;,&quot;Rational&quot;,&quot;Irrational&quot;,&quot;Algebraic&quot;,&quot;Real&quot;,&quot;Complex&quot;,&quot;Famous&lt;br&gt;Numbers&quot;,&quot;zero&quot;,&quot;pi&quot;,&quot;e&quot;,&quot;i&quot;,&quot;Golden&lt;br&gt;Mean&quot;,&quot;Arithmetic&quot;,&quot;Operations&quot;,&quot;Addition&quot;,&quot;Subtraction&quot;,&quot;Multiplication&quot;,&quot;Division&quot;,&quot;Roots&quot;,&quot;Factorials&quot;,&quot;Factoring&quot;,&quot;Properties&lt;br&gt;of&lt;br&gt;Operations&quot;,&quot;Estimation&quot;,&quot;Fractions&quot;,&quot;Addition&quot;,&quot;Subtraction&quot;,&quot;Multiplication&quot;,&quot;Division&quot;,&quot;Ratio&lt;br&gt;and&lt;br&gt;Proportion&quot;,&quot;Equivalent&lt;br&gt;Fractions&quot;,&quot;Decimals&quot;,&quot;Addition&quot;,&quot;Subtraction&quot;,&quot;Multiplication&quot;,&quot;Division&quot;,&quot;Percents&quot;,&quot;Comparison&lt;br&gt;of&lt;br&gt;numbers&quot;,&quot;Exponents&quot;,&quot;Multiplication&quot;,&quot;Division&quot;,&quot;Powers&quot;,&quot;Integer&lt;br&gt;Exponents&quot;,&quot;Rational&lt;br&gt;Exponents&quot;,&quot;Patterns&lt;br&gt;and&lt;br&gt;Sequences&quot;,&quot;Number&lt;br&gt;Patterns&quot;,&quot;Fibonacci&lt;br&gt;Sequence&quot;,&quot;Arithmetic&lt;br&gt;Sequence&quot;,&quot;Geometric&lt;br&gt;Sequence&quot;,&quot;Measurement&quot;,&quot;Units&lt;br&gt;of&lt;br&gt;Measurement&quot;,&quot;Metric&lt;br&gt;System&quot;,&quot;Standard&lt;br&gt;Units&quot;,&quot;Nonstandard&lt;br&gt;Units&quot;,&quot;Linear&lt;br&gt;Measure&quot;,&quot;Distance&quot;,&quot;Circumference&quot;,&quot;Perimeter&quot;,&quot;Area&quot;,&quot;Area&lt;br&gt;of&lt;br&gt;Polygons&quot;,&quot;Area&lt;br&gt;of&lt;br&gt;Circles&quot;,&quot;Surface&lt;br&gt;Area&quot;,&quot;Nonstandard&lt;br&gt;Shapes&quot;,&quot;Volume&quot;,&quot;Weight&lt;br&gt;and&lt;br&gt;Mass&quot;,&quot;Temperature&quot;,&quot;Time&quot;,&quot;Speed&quot;,&quot;Money&quot;,&quot;Scale&quot;,&quot;Logic&quot;,&quot;Venn&lt;br&gt;Diagrams&quot;,&quot;Propositional&lt;br&gt;and&lt;br&gt;Predicate&lt;br&gt;Logic&quot;,&quot;Methods&lt;br&gt;of&lt;br&gt;Proof&quot;,&quot;Set&lt;br&gt;Theory&quot;,&quot;Sets&lt;br&gt;and&lt;br&gt;Set&lt;br&gt;Operations&quot;,&quot;Relations&lt;br&gt;and&lt;br&gt;Functions&quot;,&quot;Cardinality&quot;,&quot;Axiom&lt;br&gt;of&lt;br&gt;Choice&quot;,&quot;Computability&lt;br&gt;and&lt;br&gt;Decidability&quot;,&quot;Model&lt;br&gt;Theory&quot;,&quot;Algebra&quot;,&quot;Graphing&lt;br&gt;Techniques&quot;,&quot;Algebraic&lt;br&gt;Manipulation&quot;,&quot;Functions&quot;,&quot;Linear&quot;,&quot;Quadratic&quot;,&quot;Polynomial&quot;,&quot;Rational&quot;,&quot;Exponential&quot;,&quot;Logarithmic&quot;,&quot;Piece-wise&quot;,&quot;Step&quot;,&quot;Equations&quot;,&quot;Linear&quot;,&quot;Quadratic&quot;,&quot;Polynomial&quot;,&quot;Rational&quot;,&quot;Exponential&quot;,&quot;Logarithmic&quot;,&quot;Systems&quot;,&quot;Inequalities&quot;,&quot;Matrices&quot;,&quot;Sequences&lt;br&gt;and&lt;br&gt;Series&quot;,&quot;Algebraic&lt;br&gt;Proof&quot;,&quot;Linear&lt;br&gt;Algebra&quot;,&quot;Systems&lt;br&gt;of&lt;br&gt;Linear&lt;br&gt;Equations&quot;,&quot;Matrix&lt;br&gt;algebra&quot;,&quot;Vectors&lt;br&gt;in&lt;br&gt;R&quot;,&quot;Vector&lt;br&gt;Spaces&quot;,&quot;Linear&lt;br&gt;Transformations&quot;,&quot;Eigenvalues&lt;br&gt;and&lt;br&gt;Eigenvectors&quot;,&quot;Inner&lt;br&gt;Product&lt;br&gt;Spaces&quot;,&quot;Abstract&lt;br&gt;Algebra&quot;,&quot;Groups&quot;,&quot;Rings&lt;br&gt;and&lt;br&gt;Ideals&quot;,&quot;Fields&quot;,&quot;Galois&lt;br&gt;Theory&quot;,&quot;Multilinear&lt;br&gt;Algebra&quot;,&quot;Number&lt;br&gt;Theory&quot;,&quot;Integers&quot;,&quot;Primes&quot;,&quot;Divisibility&quot;,&quot;Factorization&quot;,&quot;Distributions&lt;br&gt;of&lt;br&gt;Primes&quot;,&quot;Congruences&quot;,&quot;Diophantine&lt;br&gt;Equations&quot;,&quot;Irrational&lt;br&gt;Numbers&quot;,&quot;Famous&lt;br&gt;Problems&quot;,&quot;Coding&lt;br&gt;Theory&quot;,&quot;Cryptography&quot;,&quot;Category&lt;br&gt;Theory&quot;,&quot;K-Theory&quot;,&quot;Homological&lt;br&gt;Algebra&quot;,&quot;Modular&lt;br&gt;Arithmetic&quot;,&quot;Cellular&lt;br&gt;Automata&quot;,&quot;Combinatorics&quot;,&quot;Combinations&quot;,&quot;Permutations&quot;,&quot;Game&lt;br&gt;Theory&quot;,&quot;Algorithms&quot;,&quot;Recursion&quot;,&quot;Graph&lt;br&gt;Theory&quot;,&quot;Linear&lt;br&gt;Programming&quot;,&quot;Order&lt;br&gt;and&lt;br&gt;Lattices&quot;,&quot;Theory&lt;br&gt;of&lt;br&gt;Computation&quot;,&quot;&lt;br&gt;Chaos&quot;,&quot;Geometric&lt;br&gt;Proof&quot;,&quot;Plane&lt;br&gt;Geometry&quot;,&quot;Plane&lt;br&gt;Measurement&quot;,&quot;Lines&lt;br&gt;and&lt;br&gt;Planes&quot;,&quot;Angles&quot;,&quot;Triangles&quot;,&quot;Properties&quot;,&quot;Congruence&quot;,&quot;Similarity&quot;,&quot;Pythagorean&lt;br&gt;Theorem&quot;,&quot;Polygons&quot;,&quot;Properties&quot;,&quot;Regular&quot;,&quot;Irregular&quot;,&quot;Congruence&quot;,&quot;Similarity&quot;,&quot;Circles&quot;,&quot;Patterns&quot;,&quot;Geometric&lt;br&gt;Patterns&quot;,&quot;Tilings&lt;br&gt;and&lt;br&gt;Tessellations&quot;,&quot;Symmetry&quot;,&quot;Golden&lt;br&gt;Ratio&quot;,&quot;Transformations&quot;,&quot;Translation&quot;,&quot;Rotation&quot;,&quot;Reflection&quot;,&quot;Scaling&quot;,&quot;Solid&lt;br&gt;Geometry&quot;,&quot;Dihedral&lt;br&gt;Angles&quot;,&quot;Spheres&quot;,&quot;Cones&quot;,&quot;Cylinders&quot;,&quot;Pyramids&quot;,&quot;Prisms&quot;,&quot;Polyhedra&quot;,&quot;Analytic&lt;br&gt;Geometry&quot;,&quot;Cartesian&lt;br&gt;Coordinates&quot;,&quot;Lines&quot;,&quot;Circles&quot;,&quot;Planes&quot;,&quot;Conics&quot;,&quot;Polar&lt;br&gt;Coordinates&quot;,&quot;Parametric&lt;br&gt;Curves&quot;,&quot;Surfaces&quot;,&quot;Distance&lt;br&gt;Formula&quot;,&quot;Projective&lt;br&gt;Geometry&quot;,&quot;Differential&lt;br&gt;Geometry&quot;,&quot;Algebraic&lt;br&gt;Geometry&quot;,&quot;Topology&quot;,&quot;Point&lt;br&gt;Set&lt;br&gt;Topology&quot;,&quot;General&lt;br&gt;Topology&quot;,&quot;Differential&lt;br&gt;Topology&quot;,&quot;Algebraic&lt;br&gt;Topology&quot;,&quot;Trigonometry&quot;,&quot;Angles&quot;,&quot;Trigonometric&lt;br&gt;Functions&quot;,&quot;Inverse&lt;br&gt;Trigonometric&lt;br&gt;Functions&quot;,&quot;Trigonometric&lt;br&gt;Identities&quot;,&quot;Trigonometric&lt;br&gt;Equations&quot;,&quot;Roots&lt;br&gt;of&lt;br&gt;Unity&quot;,&quot;Spherical&lt;br&gt;Trigonometry&quot;,&quot;Fractal&lt;br&gt;Geometry&quot;,&quot;Single&lt;br&gt;Variable&quot;,&quot;(Single)&lt;br&gt;Functions&quot;,&quot;(Single)&lt;br&gt;Limits&quot;,&quot;(Single)&lt;br&gt;Continuity&quot;,&quot;(Single)&lt;br&gt;Differentiation&quot;,&quot;(Single)&lt;br&gt;Integration&quot;,&quot;(Single)&lt;br&gt;Series&quot;,&quot;Several&lt;br&gt;Variables&quot;,&quot;Functions&lt;br&gt;of&lt;br&gt;Several&lt;br&gt;Variables&quot;,&quot;(Several)&lt;br&gt;Limits&quot;,&quot;(Several)&lt;br&gt;Continuity&quot;,&quot;Partial&lt;br&gt;Derivatives&quot;,&quot;Multiple&lt;br&gt;integrals&quot;,&quot;Taylor&lt;br&gt;Series&quot;,&quot;Advanced&lt;br&gt;Calculus&quot;,&quot;Vector&lt;br&gt;Valued&lt;br&gt;Functions&quot;,&quot;Line&lt;br&gt;Integrals&quot;,&quot;Surface&lt;br&gt;Integrals&quot;,&quot;Stokes&lt;br&gt;Theorem&quot;,&quot;Curvilinear&lt;br&gt;Coordinates&quot;,&quot;Linear&lt;br&gt;spaces&quot;,&quot;Fourier&lt;br&gt;Series&quot;,&quot;Orthogonal&lt;br&gt;Functions&quot;,&quot;Tensor&lt;br&gt;Calculus&quot;,&quot;Calculus&lt;br&gt;of&lt;br&gt;Variations&quot;,&quot;Operational&lt;br&gt;Calculus&quot;,&quot;Real&lt;br&gt;Analysis&quot;,&quot;(Analysis)&lt;br&gt;Metric&lt;br&gt;Spaces&quot;,&quot;(Analysis)&lt;br&gt;Convergence&quot;,&quot;(Analysis)&lt;br&gt;Continuity&quot;,&quot;(Analysis)&lt;br&gt;Differentiation&quot;,&quot;(Analysis)&lt;br&gt;Integration&quot;,&quot;Measure&lt;br&gt;Theory&quot;,&quot;Complex&lt;br&gt;Analysis&quot;,&quot;(Complex)&lt;br&gt;Convergence&quot;,&quot;Infinite&lt;br&gt;Series&quot;,&quot;Analytic&lt;br&gt;Functions&quot;,&quot;Integration&quot;,&quot;Contour&lt;br&gt;Integrals&quot;,&quot;Conformal&lt;br&gt;Mappings&quot;,&quot;Several&lt;br&gt;Complex&lt;br&gt;Variables&quot;,&quot;Numerical&lt;br&gt;Analysis&quot;,&quot;Computer&lt;br&gt;Arithmetic&quot;,&quot;Solutions&lt;br&gt;of&lt;br&gt;Equations&quot;,&quot;Solutions&lt;br&gt;of&lt;br&gt;Systems&quot;,&quot;Interpolation&quot;,&quot;Numerical&lt;br&gt;Differentiation&quot;,&quot;Numerical&lt;br&gt;Integration&quot;,&quot;Numerical&lt;br&gt;Solutions&lt;br&gt;of&lt;br&gt;ODEs&quot;,&quot;Numerical&lt;br&gt;Solutions&lt;br&gt;of&lt;br&gt;PDEs&quot;,&quot;Integral&lt;br&gt;Transforms&quot;,&quot;Fourier&lt;br&gt;Transforms&quot;,&quot;Laplace&lt;br&gt;Transforms&quot;,&quot;Hankel&lt;br&gt;Transforms&quot;,&quot;Wavelets&quot;,&quot;Other&lt;br&gt;Transforms&quot;,&quot;Signal&lt;br&gt;Analysis&quot;,&quot;Sampling&lt;br&gt;Theory&quot;,&quot;Filters&quot;,&quot;Noise&quot;,&quot;Data&lt;br&gt;Compression&quot;,&quot;Image&lt;br&gt;Processing&quot;,&quot;Functional&lt;br&gt;Analysis&quot;,&quot;Hilbert&lt;br&gt;Spaces&quot;,&quot;Banach&lt;br&gt;Spaces&quot;,&quot;Topological&lt;br&gt;Spaces&quot;,&quot;Locally&lt;br&gt;Convex&lt;br&gt;Spaces&quot;,&quot;Bounded&lt;br&gt;Operators&quot;,&quot;Spectral&lt;br&gt;Theorem&quot;,&quot;Unbounded&lt;br&gt;Operators&quot;,&quot;Harmonic&lt;br&gt;Analysis&quot;,&quot;Global&lt;br&gt;Analysis&quot;,&quot;Ordinary&lt;br&gt;Differential&lt;br&gt;Equations&quot;,&quot;First&lt;br&gt;Order&quot;,&quot;Second&lt;br&gt;Order&quot;,&quot;Linear&lt;br&gt;Oscillations&quot;,&quot;Nonlinear&lt;br&gt;Oscillations&quot;,&quot;Systems&lt;br&gt;of&lt;br&gt;Differential&lt;br&gt;Equations&quot;,&quot;Sturm&lt;br&gt;Liouville&lt;br&gt;Problems&quot;,&quot;Special&lt;br&gt;Functions&quot;,&quot;Power&lt;br&gt;Series&lt;br&gt;Methods&quot;,&quot;Laplace&lt;br&gt;Transforms&quot;,&quot;Partial&lt;br&gt;Differential&lt;br&gt;Equations&quot;,&quot;First&lt;br&gt;Order&quot;,&quot;Elliptic&quot;,&quot;Parabolic&quot;,&quot;Hyperbolic&quot;,&quot;Integral&lt;br&gt;Transforms&quot;,&quot;Integral&lt;br&gt;Equations&quot;,&quot;Potential&lt;br&gt;Theory&quot;,&quot;Nonlinear&lt;br&gt;Equations&quot;,&quot;Symmetries&lt;br&gt;and&lt;br&gt;Integrability&quot;,&quot;Difference&lt;br&gt;Equations&quot;,&quot;First&lt;br&gt;Order&quot;,&quot;Second&lt;br&gt;Order&quot;,&quot;Linear&lt;br&gt;Systems&quot;,&quot;Z&lt;br&gt;Transforms&quot;,&quot;Orthogonal&lt;br&gt;Polynomials&quot;,&quot;Dynamical&lt;br&gt;Systems&quot;,&quot;D&lt;br&gt;Maps&quot;,&quot;D&lt;br&gt;Maps&quot;,&quot;Lyapunov&lt;br&gt;Exponents&quot;,&quot;Bifurcations&quot;,&quot;Fractals&quot;,&quot;Differentiable&lt;br&gt;Dynamics&quot;,&quot;Conservative&lt;br&gt;Dynamics&quot;,&quot;Chaos&quot;,&quot;Complex&lt;br&gt;Dynamical&lt;br&gt;Systems&quot;,&quot;Data&lt;br&gt;Collection&quot;,&quot;Experimental&lt;br&gt;Design&quot;,&quot;Sampling&lt;br&gt;and&lt;br&gt;Surveys&quot;,&quot;Data&lt;br&gt;and&lt;br&gt;Measurement&lt;br&gt;Issues&quot;,&quot;Data&lt;br&gt;Summary&lt;br&gt;and&lt;br&gt;Presentation&quot;,&quot;Summary&lt;br&gt;Statistics&quot;,&quot;Measures&lt;br&gt;of&lt;br&gt;Central&lt;br&gt;Tendencies&quot;,&quot;Measures&lt;br&gt;of&lt;br&gt;Spread&quot;,&quot;Data&lt;br&gt;Representation&quot;,&quot;Graphs&lt;br&gt;and&lt;br&gt;Plots&quot;,&quot;Tables&quot;,&quot;Statistical&lt;br&gt;Inference&lt;br&gt;and&lt;br&gt;Techniques&quot;,&quot;Sampling&lt;br&gt;Distributions&quot;,&quot;Regression&lt;br&gt;and&lt;br&gt;Correlation&quot;,&quot;Confidence&lt;br&gt;Intervals&quot;,&quot;Hypothesis&lt;br&gt;Tests&quot;,&quot;Statistical&lt;br&gt;Quality&lt;br&gt;Control&quot;,&quot;Non-parametric&lt;br&gt;Techniques&quot;,&quot;Multivariate&lt;br&gt;Techniques&quot;,&quot;Survival&lt;br&gt;Analysis&quot;,&quot;Bayesian&lt;br&gt;Statistics&quot;,&quot;Probability&quot;,&quot;Elementary&lt;br&gt;Probability&quot;,&quot;Sample&lt;br&gt;Space&lt;br&gt;and&lt;br&gt;Sets&quot;,&quot;General&lt;br&gt;Rules&quot;,&quot;Combinations&lt;br&gt;and&lt;br&gt;Permutations&quot;,&quot;Random&lt;br&gt;Variables&quot;,&quot;Univariate&lt;br&gt;Distributions&quot;,&quot;Discrete&lt;br&gt;Distributions&quot;,&quot;Continuous&lt;br&gt;Distributions&quot;,&quot;Expected&lt;br&gt;Value&quot;,&quot;Limit&lt;br&gt;Theorems&quot;,&quot;Central&lt;br&gt;Limit&lt;br&gt;Theorem&quot;,&quot;Law&lt;br&gt;of&lt;br&gt;Large&lt;br&gt;Numbers&quot;,&quot;Multivariate&lt;br&gt;Distributions&quot;,&quot;Joint&quot;,&quot;Conditional&quot;,&quot;Expectations&quot;,&quot;Stochastic&lt;br&gt;Processes&quot;,&quot;Brownian&lt;br&gt;Motion&quot;,&quot;Markov&lt;br&gt;Chains&quot;,&quot;Queuing&lt;br&gt;Theory&quot;,&quot;Probability&lt;br&gt;Measures&quot;,&quot;Simulation&quot;,&quot;Mathematical&lt;br&gt;Physics&quot;,&quot;Mathematical&lt;br&gt;Economics&quot;,&quot;Mathematical&lt;br&gt;Biology&quot;,&quot;Mathematics&lt;br&gt;for&lt;br&gt;Business&quot;,&quot;Engineering&lt;br&gt;Mathematics&quot;,&quot;Mathematical&lt;br&gt;Sociology&quot;,&quot;Mathematics&lt;br&gt;for&lt;br&gt;Social&lt;br&gt;Sciences&quot;,&quot;Mathematics&lt;br&gt;for&lt;br&gt;Computer&lt;br&gt;Science&quot;,&quot;Mathematics&lt;br&gt;for&lt;br&gt;Humanities&quot;,&quot;Consumer&lt;br&gt;Mathematics&quot;,&quot;General&quot;,&quot;Famous&lt;br&gt;Problems&quot;,&quot;Biographies&lt;br&gt;of&lt;br&gt;Mathematicians&quot;],&quot;parents&quot;:[&quot;&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;0&quot;,&quot;1&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;12&quot;,&quot;90&quot;,&quot;90&quot;,&quot;90&quot;,&quot;90&quot;,&quot;90&quot;,&quot;1&quot;,&quot;13&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;91&quot;,&quot;13&quot;,&quot;92&quot;,&quot;92&quot;,&quot;92&quot;,&quot;92&quot;,&quot;92&quot;,&quot;92&quot;,&quot;13&quot;,&quot;93&quot;,&quot;93&quot;,&quot;93&quot;,&quot;93&quot;,&quot;93&quot;,&quot;13&quot;,&quot;13&quot;,&quot;95&quot;,&quot;95&quot;,&quot;95&quot;,&quot;95&quot;,&quot;95&quot;,&quot;1&quot;,&quot;14&quot;,&quot;14&quot;,&quot;14&quot;,&quot;14&quot;,&quot;1&quot;,&quot;15&quot;,&quot;100&quot;,&quot;100&quot;,&quot;100&quot;,&quot;15&quot;,&quot;101&quot;,&quot;101&quot;,&quot;101&quot;,&quot;15&quot;,&quot;102&quot;,&quot;102&quot;,&quot;102&quot;,&quot;102&quot;,&quot;15&quot;,&quot;15&quot;,&quot;15&quot;,&quot;15&quot;,&quot;15&quot;,&quot;15&quot;,&quot;15&quot;,&quot;2&quot;,&quot;16&quot;,&quot;16&quot;,&quot;16&quot;,&quot;2&quot;,&quot;17&quot;,&quot;17&quot;,&quot;17&quot;,&quot;17&quot;,&quot;2&quot;,&quot;2&quot;,&quot;3&quot;,&quot;20&quot;,&quot;20&quot;,&quot;20&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;119&quot;,&quot;20&quot;,&quot;120&quot;,&quot;120&quot;,&quot;120&quot;,&quot;120&quot;,&quot;120&quot;,&quot;120&quot;,&quot;120&quot;,&quot;20&quot;,&quot;20&quot;,&quot;20&quot;,&quot;20&quot;,&quot;3&quot;,&quot;21&quot;,&quot;21&quot;,&quot;21&quot;,&quot;21&quot;,&quot;21&quot;,&quot;21&quot;,&quot;21&quot;,&quot;3&quot;,&quot;22&quot;,&quot;22&quot;,&quot;22&quot;,&quot;22&quot;,&quot;22&quot;,&quot;3&quot;,&quot;23&quot;,&quot;23&quot;,&quot;138&quot;,&quot;138&quot;,&quot;138&quot;,&quot;23&quot;,&quot;23&quot;,&quot;23&quot;,&quot;23&quot;,&quot;23&quot;,&quot;23&quot;,&quot;3&quot;,&quot;3&quot;,&quot;3&quot;,&quot;3&quot;,&quot;4&quot;,&quot;4&quot;,&quot;29&quot;,&quot;29&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;4&quot;,&quot;5&quot;,&quot;5&quot;,&quot;39&quot;,&quot;39&quot;,&quot;39&quot;,&quot;39&quot;,&quot;150&quot;,&quot;150&quot;,&quot;150&quot;,&quot;150&quot;,&quot;39&quot;,&quot;151&quot;,&quot;151&quot;,&quot;151&quot;,&quot;151&quot;,&quot;151&quot;,&quot;39&quot;,&quot;39&quot;,&quot;153&quot;,&quot;153&quot;,&quot;153&quot;,&quot;153&quot;,&quot;39&quot;,&quot;154&quot;,&quot;154&quot;,&quot;154&quot;,&quot;154&quot;,&quot;5&quot;,&quot;40&quot;,&quot;40&quot;,&quot;40&quot;,&quot;40&quot;,&quot;40&quot;,&quot;40&quot;,&quot;40&quot;,&quot;5&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;41&quot;,&quot;5&quot;,&quot;5&quot;,&quot;5&quot;,&quot;5&quot;,&quot;45&quot;,&quot;45&quot;,&quot;45&quot;,&quot;45&quot;,&quot;5&quot;,&quot;46&quot;,&quot;46&quot;,&quot;46&quot;,&quot;46&quot;,&quot;46&quot;,&quot;46&quot;,&quot;46&quot;,&quot;5&quot;,&quot;6&quot;,&quot;48&quot;,&quot;48&quot;,&quot;48&quot;,&quot;48&quot;,&quot;48&quot;,&quot;48&quot;,&quot;6&quot;,&quot;49&quot;,&quot;49&quot;,&quot;49&quot;,&quot;49&quot;,&quot;49&quot;,&quot;49&quot;,&quot;6&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;50&quot;,&quot;6&quot;,&quot;6&quot;,&quot;6&quot;,&quot;7&quot;,&quot;54&quot;,&quot;54&quot;,&quot;54&quot;,&quot;54&quot;,&quot;54&quot;,&quot;54&quot;,&quot;7&quot;,&quot;55&quot;,&quot;55&quot;,&quot;55&quot;,&quot;55&quot;,&quot;55&quot;,&quot;55&quot;,&quot;55&quot;,&quot;7&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;56&quot;,&quot;7&quot;,&quot;57&quot;,&quot;57&quot;,&quot;57&quot;,&quot;57&quot;,&quot;57&quot;,&quot;7&quot;,&quot;58&quot;,&quot;58&quot;,&quot;58&quot;,&quot;58&quot;,&quot;58&quot;,&quot;7&quot;,&quot;59&quot;,&quot;59&quot;,&quot;59&quot;,&quot;59&quot;,&quot;59&quot;,&quot;59&quot;,&quot;59&quot;,&quot;7&quot;,&quot;7&quot;,&quot;8&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;62&quot;,&quot;8&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;63&quot;,&quot;8&quot;,&quot;64&quot;,&quot;64&quot;,&quot;64&quot;,&quot;64&quot;,&quot;64&quot;,&quot;8&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;65&quot;,&quot;9&quot;,&quot;66&quot;,&quot;66&quot;,&quot;66&quot;,&quot;9&quot;,&quot;67&quot;,&quot;275&quot;,&quot;275&quot;,&quot;67&quot;,&quot;276&quot;,&quot;276&quot;,&quot;9&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;68&quot;,&quot;9&quot;,&quot;69&quot;,&quot;286&quot;,&quot;286&quot;,&quot;286&quot;,&quot;286&quot;,&quot;69&quot;,&quot;287&quot;,&quot;287&quot;,&quot;287&quot;,&quot;69&quot;,&quot;288&quot;,&quot;288&quot;,&quot;69&quot;,&quot;289&quot;,&quot;289&quot;,&quot;289&quot;,&quot;69&quot;,&quot;290&quot;,&quot;290&quot;,&quot;290&quot;,&quot;69&quot;,&quot;69&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;10&quot;,&quot;11&quot;,&quot;11&quot;,&quot;11&quot;],&quot;type&quot;:&quot;treemap&quot;}],                        {&quot;template&quot;:{&quot;data&quot;:{&quot;bar&quot;:[{&quot;error_x&quot;:{&quot;color&quot;:&quot;#2a3f5f&quot;},&quot;error_y&quot;:{&quot;color&quot;:&quot;#2a3f5f&quot;},&quot;marker&quot;:{&quot;line&quot;:{&quot;color&quot;:&quot;#E5ECF6&quot;,&quot;width&quot;:0.5},&quot;pattern&quot;:{&quot;fillmode&quot;:&quot;overlay&quot;,&quot;size&quot;:10,&quot;solidity&quot;:0.2}},&quot;type&quot;:&quot;bar&quot;}],&quot;barpolar&quot;:[{&quot;marker&quot;:{&quot;line&quot;:{&quot;color&quot;:&quot;#E5ECF6&quot;,&quot;width&quot;:0.5},&quot;pattern&quot;:{&quot;fillmode&quot;:&quot;overlay&quot;,&quot;size&quot;:10,&quot;solidity&quot;:0.2}},&quot;type&quot;:&quot;barpolar&quot;}],&quot;carpet&quot;:[{&quot;aaxis&quot;:{&quot;endlinecolor&quot;:&quot;#2a3f5f&quot;,&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;minorgridcolor&quot;:&quot;white&quot;,&quot;startlinecolor&quot;:&quot;#2a3f5f&quot;},&quot;baxis&quot;:{&quot;endlinecolor&quot;:&quot;#2a3f5f&quot;,&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;minorgridcolor&quot;:&quot;white&quot;,&quot;startlinecolor&quot;:&quot;#2a3f5f&quot;},&quot;type&quot;:&quot;carpet&quot;}],&quot;choropleth&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;type&quot;:&quot;choropleth&quot;}],&quot;contour&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;contour&quot;}],&quot;contourcarpet&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;type&quot;:&quot;contourcarpet&quot;}],&quot;heatmap&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;heatmap&quot;}],&quot;heatmapgl&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;heatmapgl&quot;}],&quot;histogram&quot;:[{&quot;marker&quot;:{&quot;pattern&quot;:{&quot;fillmode&quot;:&quot;overlay&quot;,&quot;size&quot;:10,&quot;solidity&quot;:0.2}},&quot;type&quot;:&quot;histogram&quot;}],&quot;histogram2d&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;histogram2d&quot;}],&quot;histogram2dcontour&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;histogram2dcontour&quot;}],&quot;mesh3d&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;type&quot;:&quot;mesh3d&quot;}],&quot;parcoords&quot;:[{&quot;line&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;parcoords&quot;}],&quot;pie&quot;:[{&quot;automargin&quot;:true,&quot;type&quot;:&quot;pie&quot;}],&quot;scatter&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scatter&quot;}],&quot;scatter3d&quot;:[{&quot;line&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scatter3d&quot;}],&quot;scattercarpet&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scattercarpet&quot;}],&quot;scattergeo&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scattergeo&quot;}],&quot;scattergl&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scattergl&quot;}],&quot;scattermapbox&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scattermapbox&quot;}],&quot;scatterpolar&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scatterpolar&quot;}],&quot;scatterpolargl&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scatterpolargl&quot;}],&quot;scatterternary&quot;:[{&quot;marker&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;type&quot;:&quot;scatterternary&quot;}],&quot;surface&quot;:[{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;},&quot;colorscale&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;type&quot;:&quot;surface&quot;}],&quot;table&quot;:[{&quot;cells&quot;:{&quot;fill&quot;:{&quot;color&quot;:&quot;#EBF0F8&quot;},&quot;line&quot;:{&quot;color&quot;:&quot;white&quot;}},&quot;header&quot;:{&quot;fill&quot;:{&quot;color&quot;:&quot;#C8D4E3&quot;},&quot;line&quot;:{&quot;color&quot;:&quot;white&quot;}},&quot;type&quot;:&quot;table&quot;}]},&quot;layout&quot;:{&quot;annotationdefaults&quot;:{&quot;arrowcolor&quot;:&quot;#2a3f5f&quot;,&quot;arrowhead&quot;:0,&quot;arrowwidth&quot;:1},&quot;autotypenumbers&quot;:&quot;strict&quot;,&quot;coloraxis&quot;:{&quot;colorbar&quot;:{&quot;outlinewidth&quot;:0,&quot;ticks&quot;:&quot;&quot;}},&quot;colorscale&quot;:{&quot;diverging&quot;:[[0,&quot;#8e0152&quot;],[0.1,&quot;#c51b7d&quot;],[0.2,&quot;#de77ae&quot;],[0.3,&quot;#f1b6da&quot;],[0.4,&quot;#fde0ef&quot;],[0.5,&quot;#f7f7f7&quot;],[0.6,&quot;#e6f5d0&quot;],[0.7,&quot;#b8e186&quot;],[0.8,&quot;#7fbc41&quot;],[0.9,&quot;#4d9221&quot;],[1,&quot;#276419&quot;]],&quot;sequential&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]],&quot;sequentialminus&quot;:[[0.0,&quot;#0d0887&quot;],[0.1111111111111111,&quot;#46039f&quot;],[0.2222222222222222,&quot;#7201a8&quot;],[0.3333333333333333,&quot;#9c179e&quot;],[0.4444444444444444,&quot;#bd3786&quot;],[0.5555555555555556,&quot;#d8576b&quot;],[0.6666666666666666,&quot;#ed7953&quot;],[0.7777777777777778,&quot;#fb9f3a&quot;],[0.8888888888888888,&quot;#fdca26&quot;],[1.0,&quot;#f0f921&quot;]]},&quot;colorway&quot;:[&quot;#636efa&quot;,&quot;#EF553B&quot;,&quot;#00cc96&quot;,&quot;#ab63fa&quot;,&quot;#FFA15A&quot;,&quot;#19d3f3&quot;,&quot;#FF6692&quot;,&quot;#B6E880&quot;,&quot;#FF97FF&quot;,&quot;#FECB52&quot;],&quot;font&quot;:{&quot;color&quot;:&quot;#2a3f5f&quot;},&quot;geo&quot;:{&quot;bgcolor&quot;:&quot;white&quot;,&quot;lakecolor&quot;:&quot;white&quot;,&quot;landcolor&quot;:&quot;#E5ECF6&quot;,&quot;showlakes&quot;:true,&quot;showland&quot;:true,&quot;subunitcolor&quot;:&quot;white&quot;},&quot;hoverlabel&quot;:{&quot;align&quot;:&quot;left&quot;},&quot;hovermode&quot;:&quot;closest&quot;,&quot;mapbox&quot;:{&quot;style&quot;:&quot;light&quot;},&quot;paper_bgcolor&quot;:&quot;white&quot;,&quot;plot_bgcolor&quot;:&quot;#E5ECF6&quot;,&quot;polar&quot;:{&quot;angularaxis&quot;:{&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;},&quot;bgcolor&quot;:&quot;#E5ECF6&quot;,&quot;radialaxis&quot;:{&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;}},&quot;scene&quot;:{&quot;xaxis&quot;:{&quot;backgroundcolor&quot;:&quot;#E5ECF6&quot;,&quot;gridcolor&quot;:&quot;white&quot;,&quot;gridwidth&quot;:2,&quot;linecolor&quot;:&quot;white&quot;,&quot;showbackground&quot;:true,&quot;ticks&quot;:&quot;&quot;,&quot;zerolinecolor&quot;:&quot;white&quot;},&quot;yaxis&quot;:{&quot;backgroundcolor&quot;:&quot;#E5ECF6&quot;,&quot;gridcolor&quot;:&quot;white&quot;,&quot;gridwidth&quot;:2,&quot;linecolor&quot;:&quot;white&quot;,&quot;showbackground&quot;:true,&quot;ticks&quot;:&quot;&quot;,&quot;zerolinecolor&quot;:&quot;white&quot;},&quot;zaxis&quot;:{&quot;backgroundcolor&quot;:&quot;#E5ECF6&quot;,&quot;gridcolor&quot;:&quot;white&quot;,&quot;gridwidth&quot;:2,&quot;linecolor&quot;:&quot;white&quot;,&quot;showbackground&quot;:true,&quot;ticks&quot;:&quot;&quot;,&quot;zerolinecolor&quot;:&quot;white&quot;}},&quot;shapedefaults&quot;:{&quot;line&quot;:{&quot;color&quot;:&quot;#2a3f5f&quot;}},&quot;ternary&quot;:{&quot;aaxis&quot;:{&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;},&quot;baxis&quot;:{&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;},&quot;bgcolor&quot;:&quot;#E5ECF6&quot;,&quot;caxis&quot;:{&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;}},&quot;title&quot;:{&quot;x&quot;:0.05},&quot;xaxis&quot;:{&quot;automargin&quot;:true,&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;,&quot;title&quot;:{&quot;standoff&quot;:15},&quot;zerolinecolor&quot;:&quot;white&quot;,&quot;zerolinewidth&quot;:2},&quot;yaxis&quot;:{&quot;automargin&quot;:true,&quot;gridcolor&quot;:&quot;white&quot;,&quot;linecolor&quot;:&quot;white&quot;,&quot;ticks&quot;:&quot;&quot;,&quot;title&quot;:{&quot;standoff&quot;:15},&quot;zerolinecolor&quot;:&quot;white&quot;,&quot;zerolinewidth&quot;:2}}},&quot;margin&quot;:{&quot;t&quot;:50,&quot;l&quot;:25,&quot;r&quot;:25,&quot;b&quot;:25}},                        {&quot;responsive&quot;: true}                    )                };                            &lt;/script&gt;        &lt;/div&gt;   
+        &lt;!-- END PLOTLY OUTPUT --&gt;
+        &lt;hr /&gt;
+        &lt;h3&gt;View my Code&lt;/h3&gt;
+        &lt;script src=&quot;https://gist.github.com/ischmidl-nd/c8036ea9b98557ca80bbf5e652d14655.js&quot;&gt;&lt;/script&gt;
+        &lt;hr /&gt;
+        &lt;h3&gt;View the Original Taxonomy&lt;/h3&gt;
+        &lt;div style=&quot;border-style:inset; height: 75vh; overflow-y: auto;&quot;&gt;
+          &lt;h3 class=&quot;book-heading&quot;&gt;Subject Taxonomy&lt;/h3&gt;
+                &lt;h3&gt;Core Subject Taxonomy for Mathematical Sciences Education&lt;/h3&gt;
+                &lt;ul&gt;
+                  &lt;li&gt;&lt;a href=&quot;https://www.math.duke.edu/education/ConferenceGroup04/&quot; target=&quot;_blank&quot;&gt;Mathematical Sciences Conference Group on Digital Educational Resources&lt;/a&gt;&lt;/li&gt;
+                  &lt;li&gt;&lt;a href=&quot;https://uncertaintysedge.github.io/internal-archive?url=/gateway/index.html&quot; target=&quot;_blank&quot; title=&quot;This page has been archived internally&quot;&gt;Math Gateway Partners Group&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;p&gt;This taxonomy is based on the Math NSDL Taxonomy Committee Report, April 2, 2002, with draft changes proposed for Section 9 by CAUSE, May 16, 2004. Further changes to Section 9 were approved by the &lt;a href=&quot;https://uncertaintysedge.github.io/internal-archive?url=/gateway/index.html&quot; target=&quot;_blank&quot; title=&quot;This page has been archived internally&quot;&gt;Math Gateway Partners Group&lt;/a&gt;, April 29, 2005&lt;/p&gt;
+                &lt;p&gt;The first two levels of this taxonomy are used for classifying JOMA documents by subject matter.&amp;#160; A fuller indication of the meanings of those levels may be obtained by scanning the deeper levels.&amp;#160;&lt;/p&gt;
+                &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                  &lt;li&gt;1.0 Numbers and Computation
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;1.1 Number Concepts
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;1.1.1 Natural&lt;/li&gt;
+                          &lt;li&gt;1.1.2 Integers&lt;/li&gt;
+                          &lt;li&gt;1.1.3 Rational&lt;/li&gt;
+                          &lt;li&gt;1.1.4 Irrational&lt;/li&gt;
+                          &lt;li&gt;1.1.5 Algebraic&lt;/li&gt;
+                          &lt;li&gt;1.1.6 Real&lt;/li&gt;
+                          &lt;li&gt;1.1.7 Complex&lt;/li&gt;
+                          &lt;li&gt;1.1.8 Famous Numbers
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.1.8.1 0&lt;/li&gt;
+                              &lt;li&gt;1.1.8.2 pi&lt;/li&gt;
+                              &lt;li&gt;1.1.8.3 e&lt;/li&gt;
+                              &lt;li&gt;1.1.8.4 i&lt;/li&gt;
+                              &lt;li&gt;1.1.8.5 Golden Mean&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;1.2 Arithmetic
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;1.2.1 Operations
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.2.1.1 Addition&lt;/li&gt;
+                              &lt;li&gt;1.2.1.2 Subtraction&lt;/li&gt;
+                              &lt;li&gt;1.2.1.3 Multiplication&lt;/li&gt;
+                              &lt;li&gt;1.2.1.4 Division&lt;/li&gt;
+                              &lt;li&gt;1.2.1.5 Roots&lt;/li&gt;
+                              &lt;li&gt;1.2.1.6 Factorials&lt;/li&gt;
+                              &lt;li&gt;1.2.1.7 Factoring&lt;/li&gt;
+                              &lt;li&gt;1.2.1.8 Properties of Operations&lt;/li&gt;
+                              &lt;li&gt;1.2.1.9 Estimation&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.2.2 Fractions
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.2.2.1 Addition&lt;/li&gt;
+                              &lt;li&gt;1.2.2.2 Subtraction&lt;/li&gt;
+                              &lt;li&gt;1.2.2.3 Multiplication&lt;/li&gt;
+                              &lt;li&gt;1.2.2.4 Division&lt;/li&gt;
+                              &lt;li&gt;1.2.2.5 Ratio and Proportion&lt;/li&gt;
+                              &lt;li&gt;1.2.2.6 Equivalent Fractions&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.2.3 Decimals
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.2.3.1 Addition&lt;/li&gt;
+                              &lt;li&gt;1.2.3.2 Subtraction&lt;/li&gt;
+                              &lt;li&gt;1.2.3.3 Multiplication&lt;/li&gt;
+                              &lt;li&gt;1.2.3.4 Division&lt;/li&gt;
+                              &lt;li&gt;1.2.3.5 Percents&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.2.4 Comparison of numbers&lt;/li&gt;
+                          &lt;li&gt;1.2.5 Exponents
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.2.5.1 Multiplication&lt;/li&gt;
+                              &lt;li&gt;1.2.5.2 Division&lt;/li&gt;
+                              &lt;li&gt;1.2.5.3 Powers&lt;/li&gt;
+                              &lt;li&gt;1.2.5.4 Integer Exponents&lt;/li&gt;
+                              &lt;li&gt;1.2.5.5 Rational Exponents&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;1.3 Patterns and Sequences
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;1.3.1 Number Patterns&lt;/li&gt;
+                          &lt;li&gt;1.3.2 Fibonacci Sequence&lt;/li&gt;
+                          &lt;li&gt;1.3.3 Arithmetic Sequence&lt;/li&gt;
+                          &lt;li&gt;1.3.4 Geometric Sequence&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;1.4 Measurement
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;1.4.1 Units of Measurement
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.4.1.1 Metric System&lt;/li&gt;
+                              &lt;li&gt;1.4.1.2 Standard Units&lt;/li&gt;
+                              &lt;li&gt;1.4.1.3 Nonstandard Units&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.4.2 Linear Measure
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.4.2.1 Distance&lt;/li&gt;
+                              &lt;li&gt;1.4.2.2 Circumference&lt;/li&gt;
+                              &lt;li&gt;1.4.2.3 Perimeter&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.4.3 Area
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;1.4.3.1 Area of Polygons&lt;/li&gt;
+                              &lt;li&gt;1.4.3.2 Area of Circles&lt;/li&gt;
+                              &lt;li&gt;1.4.3.3 Surface Area&lt;/li&gt;
+                              &lt;li&gt;1.4.3.4 Nonstandard Shapes&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;1.4.4 Volume&lt;/li&gt;
+                          &lt;li&gt;1.4.5 Weight and Mass&lt;/li&gt;
+                          &lt;li&gt;1.4.6 Temperature&lt;/li&gt;
+                          &lt;li&gt;1.4.7 Time&lt;/li&gt;
+                          &lt;li&gt;1.4.8 Speed&lt;/li&gt;
+                          &lt;li&gt;1.4.9 Money&lt;/li&gt;
+                          &lt;li&gt;1.4.10 Scale&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;2.0 Logic and Foundations
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;2.1 Logic
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;2.1.1 Venn Diagrams&lt;/li&gt;
+                          &lt;li&gt;2.1.2 Propositional and Predicate Logic&lt;/li&gt;
+                          &lt;li&gt;2.1.3 Methods of Proof&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;2.2 Set Theory
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;2.2.1 Sets and Set Operations&lt;/li&gt;
+                          &lt;li&gt;2.2.2 Relations and Functions&lt;/li&gt;
+                          &lt;li&gt;2.2.3 Cardinality&lt;/li&gt;
+                          &lt;li&gt;2.2.4 Axiom of Choice&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;2.3 Computability and Decidability&lt;/li&gt;
+                      &lt;li&gt;2.4 Model Theory&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;3.0 Algebra and Number Theory
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;3.1 Algebra
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;3.1.1 Graphing Techniques&lt;/li&gt;
+                          &lt;li&gt;3.1.2 Algebraic Manipulation&lt;/li&gt;
+                          &lt;li&gt;3.1.3 Functions
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;3.1.3.1 Linear&lt;/li&gt;
+                              &lt;li&gt;3.1.3.2 Quadratic&lt;/li&gt;
+                              &lt;li&gt;3.1.3.3 Polynomial&lt;/li&gt;
+                              &lt;li&gt;3.1.3.4 Rational&lt;/li&gt;
+                              &lt;li&gt;3.1.3.5 Exponential&lt;/li&gt;
+                              &lt;li&gt;3.1.3.6 Logarithmic&lt;/li&gt;
+                              &lt;li&gt;3.1.3.7 Piece-wise&lt;/li&gt;
+                              &lt;li&gt;3.1.3.8 Step&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;3.1.4 Equations
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;3.1.4.1 Linear&lt;/li&gt;
+                              &lt;li&gt;3.1.4.2 Quadratic&lt;/li&gt;
+                              &lt;li&gt;3.1.4.3 Polynomial&lt;/li&gt;
+                              &lt;li&gt;3.1.4.4 Rational&lt;/li&gt;
+                              &lt;li&gt;3.1.4.5 Exponential&lt;/li&gt;
+                              &lt;li&gt;3.1.4.6 Logarithmic&lt;/li&gt;
+                              &lt;li&gt;3.1.4.7 Systems&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;3.1.5 Inequalities&lt;/li&gt;
+                          &lt;li&gt;3.1.6 Matrices&lt;/li&gt;
+                          &lt;li&gt;3.1.7 Sequences and Series&lt;/li&gt;
+                          &lt;li&gt;3.1.8 Algebraic Proof&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;3.2 Linear Algebra
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;3.2.1 Systems of Linear Equations&lt;/li&gt;
+                          &lt;li&gt;3.2.2 Matrix algebra&lt;/li&gt;
+                          &lt;li&gt;3.2.3 Vectors in R3&lt;/li&gt;
+                          &lt;li&gt;3.2.4 Vector Spaces&lt;/li&gt;
+                          &lt;li&gt;3.2.5 Linear Transformations&lt;/li&gt;
+                          &lt;li&gt;3.2.6 Eigenvalues and Eigenvectors&lt;/li&gt;
+                          &lt;li&gt;3.2.7 Inner Product Spaces&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;3.3 Abstract Algebra
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;3.3.1 Groups&lt;/li&gt;
+                          &lt;li&gt;3.3.2 Rings and Ideals&lt;/li&gt;
+                          &lt;li&gt;3.3.3 Fields&lt;/li&gt;
+                          &lt;li&gt;3.3.4 Galois Theory&lt;/li&gt;
+                          &lt;li&gt;3.3.5 Multilinear Algebra&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;3.4 Number Theory
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;3.4.1 Integers&lt;/li&gt;
+                          &lt;li&gt;3.4.2 Primes&lt;/li&gt;
+                          &lt;li&gt;3.4.2.1 Divisibility&lt;/li&gt;
+                          &lt;li&gt;3.4.2.2 Factorization&lt;/li&gt;
+                          &lt;li&gt;3.4.2.3 Distributions of Primes&lt;/li&gt;
+                          &lt;li&gt;3.4.3 Congruences&lt;/li&gt;
+                          &lt;li&gt;3.4.4 Diophantine Equations&lt;/li&gt;
+                          &lt;li&gt;3.4.5 Irrational Numbers&lt;/li&gt;
+                          &lt;li&gt;3.4.6 Famous Problems&lt;/li&gt;
+                          &lt;li&gt;3.4.7 Coding Theory&lt;/li&gt;
+                          &lt;li&gt;3.4.8 Cryptography&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;3.5 Category Theory&lt;/li&gt;
+                      &lt;li&gt;3.6 K-Theory&lt;/li&gt;
+                      &lt;li&gt;3.7 Homological Algebra&lt;/li&gt;
+                      &lt;li&gt;3.8 Modular Arithmetic&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;4.0 Discrete Mathematics
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;4.1 Cellular Automata&lt;/li&gt;
+                      &lt;li&gt;4.2 Combinatorics
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;4.2.1 Combinations&lt;/li&gt;
+                          &lt;li&gt;4.2.2 Permutations&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;4.3 Game Theory&lt;/li&gt;
+                      &lt;li&gt;4.4 Algorithms&lt;/li&gt;
+                      &lt;li&gt;4.5 Recursion&lt;/li&gt;
+                      &lt;li&gt;4.6 Graph Theory&lt;/li&gt;
+                      &lt;li&gt;4.7 Linear Programming&lt;/li&gt;
+                      &lt;li&gt;4.8 Order and Lattices&lt;/li&gt;
+                      &lt;li&gt;4.9 Theory of Computation&lt;/li&gt;
+                      &lt;li&gt;4.10 Chaos&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;5.0 Geometry and Topology
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;5.1 Geometric Proof&lt;/li&gt;
+                      &lt;li&gt;5.2 Plane Geometry
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;5.2.1 Measurement&lt;/li&gt;
+                          &lt;li&gt;5.2.2 Lines and Planes&lt;/li&gt;
+                          &lt;li&gt;5.2.3 Angles&lt;/li&gt;
+                          &lt;li&gt;5.2.4 Triangles
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;5.2.4.1 Properties&lt;/li&gt;
+                              &lt;li&gt;5.2.4.2 Congruence&lt;/li&gt;
+                              &lt;li&gt;5.2.4.3 Similarity&lt;/li&gt;
+                              &lt;li&gt;5.2.4.4 Pythagorean Theorem&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;5.2.5 Polygons
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;5.2.5.1 Properties&lt;/li&gt;
+                              &lt;li&gt;5.2.5.2 Regular&lt;/li&gt;
+                              &lt;li&gt;5.2.5.3 Irregular&lt;/li&gt;
+                              &lt;li&gt;5.2.5.4 Congruence&lt;/li&gt;
+                              &lt;li&gt;5.2.5.5 Similarity&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;5.2.6 Circles&lt;/li&gt;
+                          &lt;li&gt;5.2.7 Patterns
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;5.2.7.1 Geometric Patterns&lt;/li&gt;
+                              &lt;li&gt;5.2.7.2 Tilings and Tessellations&lt;/li&gt;
+                              &lt;li&gt;5.2.7.3 Symmetry&lt;/li&gt;
+                              &lt;li&gt;5.2.7.4 Golden Ratio&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;5.2.8 Transformations
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;5.2.8.1 Translation&lt;/li&gt;
+                              &lt;li&gt;5.2.8.2 Rotation&lt;/li&gt;
+                              &lt;li&gt;5.2.8.3 Reflection&lt;/li&gt;
+                              &lt;li&gt;5.2.8.4 Scaling&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;5.3 Solid Geometry
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;5.3.1 Dihedral Angles&lt;/li&gt;
+                          &lt;li&gt;5.3.2 Spheres&lt;/li&gt;
+                          &lt;li&gt;5.3.3 Cones&lt;/li&gt;
+                          &lt;li&gt;5.3.4 Cylinders&lt;/li&gt;
+                          &lt;li&gt;5.3.5 Pyramids&lt;/li&gt;
+                          &lt;li&gt;5.3.6 Prisms&lt;/li&gt;
+                          &lt;li&gt;5.3.7 Polyhedra&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;5.4 Analytic Geometry
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;5.4.1 Cartesian Coordinates&lt;/li&gt;
+                          &lt;li&gt;5.4.2 Lines&lt;/li&gt;
+                          &lt;li&gt;5.4.3 Circles&lt;/li&gt;
+                          &lt;li&gt;5.4.4 Planes&lt;/li&gt;
+                          &lt;li&gt;5.4.5 Conics&lt;/li&gt;
+                          &lt;li&gt;5.4.6 Polar Coordinates&lt;/li&gt;
+                          &lt;li&gt;5.4.7 Parametric Curves&lt;/li&gt;
+                          &lt;li&gt;5.4.8 Surfaces&lt;/li&gt;
+                          &lt;li&gt;5.4.9 Distance Formula&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;5.5 Projective Geometry&lt;/li&gt;
+                      &lt;li&gt;5.6 Differential Geometry&lt;/li&gt;
+                      &lt;li&gt;5.7 Algebraic Geometry&lt;/li&gt;
+                      &lt;li&gt;5.8 Topology
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;5.8.1 Point Set Topology&lt;/li&gt;
+                          &lt;li&gt;5.8.2 General Topology&lt;/li&gt;
+                          &lt;li&gt;5.8.3 Differential Topology&lt;/li&gt;
+                          &lt;li&gt;5.8.4 Algebraic Topology&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;5.9 Trigonometry
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;5.9.1 Angles&lt;/li&gt;
+                          &lt;li&gt;5.9.2 Trigonometric Functions&lt;/li&gt;
+                          &lt;li&gt;5.9.3 Inverse Trigonometric Functions&lt;/li&gt;
+                          &lt;li&gt;5.9.4 Trigonometric Identities&lt;/li&gt;
+                          &lt;li&gt;5.9.5 Trigonometric Equations&lt;/li&gt;
+                          &lt;li&gt;5.9.6 Roots of Unity&lt;/li&gt;
+                          &lt;li&gt;5.9.7 Spherical Trigonometry&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;5.10 Fractal Geometry&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;6.0 Calculus
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;6.1 Single Variable
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;6.1.1 Functions&lt;/li&gt;
+                          &lt;li&gt;6.1.2 Limits&lt;/li&gt;
+                          &lt;li&gt;6.1.3 Continuity&lt;/li&gt;
+                          &lt;li&gt;6.1.4 Differentiation&lt;/li&gt;
+                          &lt;li&gt;6.1.5 Integration&lt;/li&gt;
+                          &lt;li&gt;6.1.6 Series&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;6.2 Several Variables
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;6.2.1 Functions of Several Variables&lt;/li&gt;
+                          &lt;li&gt;6.2.2 Limits&lt;/li&gt;
+                          &lt;li&gt;6.2.3 Continuity&lt;/li&gt;
+                          &lt;li&gt;6.2.4 Partial Derivatives&lt;/li&gt;
+                          &lt;li&gt;6.2.5 Multiple integrals&lt;/li&gt;
+                          &lt;li&gt;6.2.6 Taylor Series&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;6.3 Advanced Calculus
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;6.3.1 Vector Valued Functions&lt;/li&gt;
+                          &lt;li&gt;6.3.2 Line Integrals&lt;/li&gt;
+                          &lt;li&gt;6.3.3 Surface Integrals&lt;/li&gt;
+                          &lt;li&gt;6.3.4 Stokes Theorem&lt;/li&gt;
+                          &lt;li&gt;6.3.5 Curvilinear Coordinates&lt;/li&gt;
+                          &lt;li&gt;6.3.6 Linear spaces&lt;/li&gt;
+                          &lt;li&gt;6.3.7 Fourier Series&lt;/li&gt;
+                          &lt;li&gt;6.3.8 Orthogonal Functions&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;6.4 Tensor Calculus&lt;/li&gt;
+                      &lt;li&gt;6.5 Calculus of Variations&lt;/li&gt;
+                      &lt;li&gt;6.6 Operational Calculus&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;7.0 Analysis
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;7.1 Real Analysis
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.1.1 Metric Spaces&lt;/li&gt;
+                          &lt;li&gt;7.1.2 Convergence&lt;/li&gt;
+                          &lt;li&gt;7.1.3 Continuity&lt;/li&gt;
+                          &lt;li&gt;7.1.4 Differentiation&lt;/li&gt;
+                          &lt;li&gt;7.1.5 Integration&lt;/li&gt;
+                          &lt;li&gt;7.1.6 Measure Theory&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.2 Complex Analysis
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.2.1 Convergence&lt;/li&gt;
+                          &lt;li&gt;7.2.2 Infinite Series&lt;/li&gt;
+                          &lt;li&gt;7.2.3 Analytic Functions&lt;/li&gt;
+                          &lt;li&gt;7.2.4 Integration&lt;/li&gt;
+                          &lt;li&gt;7.2.5 Contour Integrals&lt;/li&gt;
+                          &lt;li&gt;7.2.6 Conformal Mappings&lt;/li&gt;
+                          &lt;li&gt;7.2.7 Several Complex Variables&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.3 Numerical Analysis
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.3.1 Computer Arithmetic&lt;/li&gt;
+                          &lt;li&gt;7.3.2 Solutions of Equations&lt;/li&gt;
+                          &lt;li&gt;7.3.3 Solutions of Systems&lt;/li&gt;
+                          &lt;li&gt;7.3.4 Interpolation&lt;/li&gt;
+                          &lt;li&gt;7.3.5 Numerical Differentiation&lt;/li&gt;
+                          &lt;li&gt;7.3.6 Numerical Integration&lt;/li&gt;
+                          &lt;li&gt;7.3.7 Numerical Solutions of ODEs&lt;/li&gt;
+                          &lt;li&gt;7.3.8 Numerical Solutions of PDEs&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.4 Integral Transforms
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.4.1 Fourier Transforms&lt;/li&gt;
+                          &lt;li&gt;7.4.2 Laplace Transforms&lt;/li&gt;
+                          &lt;li&gt;7.4.3 Hankel Transforms&lt;/li&gt;
+                          &lt;li&gt;7.4.4 Wavelets&lt;/li&gt;
+                          &lt;li&gt;7.4.5 Other Transforms&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.5 Signal Analysis
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.5.1 Sampling Theory&lt;/li&gt;
+                          &lt;li&gt;7.5.2 Filters&lt;/li&gt;
+                          &lt;li&gt;7.5.3 Noise&lt;/li&gt;
+                          &lt;li&gt;7.5.4 Data Compression&lt;/li&gt;
+                          &lt;li&gt;7.5.5 Image Processing&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.6 Functional Analysis
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;7.6.1 Hilbert Spaces&lt;/li&gt;
+                          &lt;li&gt;7.6.2 Banach Spaces&lt;/li&gt;
+                          &lt;li&gt;7.6.3 Topological Spaces&lt;/li&gt;
+                          &lt;li&gt;7.6.4 Locally Convex Spaces&lt;/li&gt;
+                          &lt;li&gt;7.6.5 Bounded Operators&lt;/li&gt;
+                          &lt;li&gt;7.6.6 Spectral Theorem&lt;/li&gt;
+                          &lt;li&gt;7.6.7 Unbounded Operators&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;7.7 Harmonic Analysis&lt;/li&gt;
+                      &lt;li&gt;7.8 Global Analysis&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;8.0 Differential and Difference Equations
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;8.1 Ordinary Differential Equations
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;8.1.1 First Order&lt;/li&gt;
+                          &lt;li&gt;8.1.2 Second Order&lt;/li&gt;
+                          &lt;li&gt;8.1.3 Linear Oscillations&lt;/li&gt;
+                          &lt;li&gt;8.1.4 Nonlinear Oscillations&lt;/li&gt;
+                          &lt;li&gt;8.1.5 Systems of Differential Equations&lt;/li&gt;
+                          &lt;li&gt;8.1.6 Sturm Liouville Problems&lt;/li&gt;
+                          &lt;li&gt;8.1.7 Special Functions&lt;/li&gt;
+                          &lt;li&gt;8.1.8 Power Series Methods&lt;/li&gt;
+                          &lt;li&gt;8.1.9 Laplace Transforms&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;8.2 Partial Differential Equations
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;8.2.1 First Order&lt;/li&gt;
+                          &lt;li&gt;8.2.2 Elliptic&lt;/li&gt;
+                          &lt;li&gt;8.2.3 Parabolic&lt;/li&gt;
+                          &lt;li&gt;8.2.4 Hyperbolic&lt;/li&gt;
+                          &lt;li&gt;8.2.5 Integral Transforms&lt;/li&gt;
+                          &lt;li&gt;8.2.6 Integral Equations&lt;/li&gt;
+                          &lt;li&gt;8.2.7 Potential Theory&lt;/li&gt;
+                          &lt;li&gt;8.2.8 Nonlinear Equations&lt;/li&gt;
+                          &lt;li&gt;8.2.9 Symmetries and Integrability&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;8.3 Difference Equations
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;8.3.1 First Order&lt;/li&gt;
+                          &lt;li&gt;8.3.2 Second Order&lt;/li&gt;
+                          &lt;li&gt;8.3.3 Linear Systems&lt;/li&gt;
+                          &lt;li&gt;8.3.4 Z Transforms&lt;/li&gt;
+                          &lt;li&gt;8.3.5 Orthogonal Polynomials&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;8.4 Dynamical Systems
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;8.4.1 1D Maps&lt;/li&gt;
+                          &lt;li&gt;8.4.2 2D Maps&lt;/li&gt;
+                          &lt;li&gt;8.4.3 Lyapunov Exponents&lt;/li&gt;
+                          &lt;li&gt;8.4.4 Bifurcations&lt;/li&gt;
+                          &lt;li&gt;8.4.5 Fractals&lt;/li&gt;
+                          &lt;li&gt;8.4.6 Differentiable Dynamics&lt;/li&gt;
+                          &lt;li&gt;8.4.7 Conservative Dynamics&lt;/li&gt;
+                          &lt;li&gt;8.4.8 Chaos&lt;/li&gt;
+                          &lt;li&gt;8.4.9 Complex Dynamical Systems&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;9.0 Statistics and Probability
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;9.1 Data Collection
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;9.1.1 Experimental Design&lt;/li&gt;
+                          &lt;li&gt;9.1.2 Sampling and Surveys&lt;/li&gt;
+                          &lt;li&gt;9.1.3 Data and Measurement Issues&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;9.2 Data Summary and Presentation
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;9.2.1 Summary Statistics
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.2.1.1 Measures of Central Tendencies&lt;/li&gt;
+                              &lt;li&gt;9.2.1.2 Measures of Spread&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.2.2 Data Representation
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.2.2.1 Graphs and Plots&lt;/li&gt;
+                              &lt;li&gt;9.2.2.2 Tables&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;9.3 Statistical Inference and Techniques
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;9.3.1 Sampling Distributions&lt;/li&gt;
+                          &lt;li&gt;9.3.2 Regression and Correlation&lt;/li&gt;
+                          &lt;li&gt;9.3.3 Confidence Intervals&lt;/li&gt;
+                          &lt;li&gt;9.3.4 Hypothesis Tests&lt;/li&gt;
+                          &lt;li&gt;9.3.5 Statistical Quality Control&lt;/li&gt;
+                          &lt;li&gt;9.3.6 Non-parametric Techniques&lt;/li&gt;
+                          &lt;li&gt;9.3.7 Multivariate Techniques&lt;/li&gt;
+                          &lt;li&gt;9.3.8 Survival Analysis&lt;/li&gt;
+                          &lt;li&gt;9.3.9 Bayesian Statistics&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                      &lt;li&gt;9.4 Probability
+                        &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                          &lt;li&gt;9.4.1 Elementary Probability
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.4.1.1 Sample Space and Sets&lt;/li&gt;
+                              &lt;li&gt;9.4.1.2 General Rules&lt;/li&gt;
+                              &lt;li&gt;9.4.1.3 Combinations and Permutations&lt;/li&gt;
+                              &lt;li&gt;9.4.1.4 Random Variables&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.4.2 Univariate Distributions
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.4.2.1 Discrete Distributions&lt;/li&gt;
+                              &lt;li&gt;9.4.2.2 Continuous Distributions&lt;/li&gt;
+                              &lt;li&gt;9.4.2.3 Expected Value&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.4.3 Limit Theorems
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.4.3.1 Central Limit Theorem&lt;/li&gt;
+                              &lt;li&gt;9.4.3.2 Law of Large Numbers&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.4.4 Multivariate Distributions
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.4.4.1 Joint&lt;/li&gt;
+                              &lt;li&gt;9.4.4.2 Conditional&lt;/li&gt;
+                              &lt;li&gt;9.4.4.3 Expectations&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.4.5 Stochastic Processes
+                            &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                              &lt;li&gt;9.4.5.1 Brownian Motion&lt;/li&gt;
+                              &lt;li&gt;9.4.5.2 Markov Chains&lt;/li&gt;
+                              &lt;li&gt;9.4.5.3 Queuing Theory&lt;/li&gt;
+                            &lt;/ol&gt;
+                          &lt;/li&gt;
+                          &lt;li&gt;9.4.6 Probability Measures&lt;/li&gt;
+                          &lt;li&gt;9.4.7 Simulation&lt;/li&gt;
+                        &lt;/ol&gt;
+                      &lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;10.0 Applied Mathematics
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;10.1 Mathematical Physics&lt;/li&gt;
+                      &lt;li&gt;10.2 Mathematical Economics&lt;/li&gt;
+                      &lt;li&gt;10.3 Mathematical Biology&lt;/li&gt;
+                      &lt;li&gt;10.4 Mathematics for Business&lt;/li&gt;
+                      &lt;li&gt;10.5 Engineering Mathematics&lt;/li&gt;
+                      &lt;li&gt;10.6 Mathematical Sociology&lt;/li&gt;
+                      &lt;li&gt;10.7 Mathematics for Social Sciences&lt;/li&gt;
+                      &lt;li&gt;10.8 Mathematics for Computer Science&lt;/li&gt;
+                      &lt;li&gt;10.9 Mathematics for Humanities&lt;/li&gt;
+                      &lt;li&gt;10.10 Consumer Mathematics&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;11.0 Mathematics History
+                    &lt;ol style=&quot;list-style-type:none&quot;&gt;
+                      &lt;li&gt;11.1 General&lt;/li&gt;
+                      &lt;li&gt;11.2 Famous Problems&lt;/li&gt;
+                      &lt;li&gt;11.3 Biographies of Mathematicians&lt;/li&gt;
+                    &lt;/ol&gt;
+                  &lt;/li&gt;
+                &lt;/ol&gt;
+              &lt;/div&gt;
+            &lt;!--END CONTAINER FLUID--&gt;
+            &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js&quot; integrity=&quot;sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Running Multivariable Resources</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/test-html/"/>
 		<updated>2022-07-10T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/test-html/</id>
-		<content type="html">&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-
-&lt;head&gt;
-  &lt;meta charset=&quot;UTF-8&quot; /&gt;
-  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
-  &lt;title&gt;HTML 5 Boilerplate&lt;/title&gt;
-&lt;/head&gt;
-
-&lt;body&gt;
-  &lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+		<id>https://uncertaintysedge.github.io/posts/math/test-html/</id>
+		<content type="html">&lt;p&gt;We’ve hit the big three theorems of vector calculus: Green’s, Stokes’, and the Divergence
+  Theorem (although Green’s theorem is really a pretty obvious special case of Stokes’ theorem). But it’s an amazing fact that all of these theorems are really special cases of an even
+  larger theorem that unifies all that we’ve studied so far. This new theory also extends what
+  we’ve done to spaces of arbitrary (finite) dimension. It rests on the idea of differential forms.
+  &lt;br /&gt;Differential forms are hard to motivate right off the bat. It won’t be immediately clear
+  how differential forms are related to what we’ve done, but be patient. For now treat differential forms as a new kind of mathematical object; we’re going to learn how to manipulate
+  them—add, multiply, differentiate, and integrate. It will be quite abstract and “formal” at
+  first, but you’ll soon see how they connect with what we’ve already done.
+&lt;/p&gt;
+&lt;a href=&quot;https://mathstats.uncg.edu/sites/yasaki/teaching/modform/documents/difform_KurtBryan.pdf&quot;&gt;[Source]&lt;/a&gt;
+&lt;h2&gt;Multivariable calculus review&lt;/h2&gt;
+&lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;Source&lt;/a&gt;
+&lt;section&gt;
+  &lt;h1&gt;FORMAL CURL &amp; DIVERGENCE&lt;/h1&gt;
+  &lt;h3&gt;CURL&lt;/h3&gt;
+  &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;\nabla\times\vec{F}&quot; alt=&quot;cprod&quot; /&gt;&lt;br /&gt;
+  &lt;img src=&quot;https://live.staticflickr.com/65535/52192765502_b76d23d68f_b.jpg&quot; alt=&quot;curl&quot; /&gt;
+  &lt;h4&gt;STOKES&#39; THEOREM&lt;/h4&gt;
+  &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;\iint_S{curl}(\vec{F})\cdot{d}\vec{S}=&amp;space;\oint_C\vec{F}\cdot{d}\vec{r}&quot; alt=&quot;stokes&quot; /&gt;
+  &lt;br /&gt;
+  &lt;h3&gt;DIVERGENCE&lt;/h3&gt;
+  &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;\nabla\cdot\vec{F}&quot; alt=&quot;dotprod&quot; /&gt;&lt;br /&gt;
+  &lt;img src=&quot;https://live.staticflickr.com/65535/52193789708_bfab134501_b.jpg&quot; alt=&quot;divergence&quot; /&gt;
+  &lt;h4&gt;GAUSS-OSTROGRADSKY THEOREM&lt;h4&gt;
+      &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;\iiint_V{div}(\vec{F}){d}\vec{V}=&amp;space;\oiint_S\vec{F}\cdot{d}\vec{S}&quot; alt=&quot;gauss&quot; /&gt;
+      &lt;br /&gt;
+      &lt;hr /&gt;
+      &lt;hr /&gt;
+&lt;/h4&gt;&lt;/h4&gt;&lt;/section&gt;
+&lt;section&gt;
+  &lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;&lt;/iframe&gt;
   &lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16.10.pdf&quot;&gt;Source&lt;/a&gt;
-&lt;/body&gt;
+  &lt;iframe src=&quot;https://www.math.uci.edu/~ndonalds/math2e/16-6surfaces.pdf&quot;&gt;&lt;/iframe&gt;
+  &lt;a href=&quot;https://www.math.uci.edu/~ndonalds/math2e/16-6surfaces.pdf&quot;&gt;Source&lt;/a&gt;
+&lt;/section&gt;
+&lt;section&gt;
+  &lt;h1&gt;Mathblr References&lt;/h1&gt;
+  &lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/Ch4dtqpgBCbs9w5p2t0oJg/51311383632&quot; data-did=&quot;f3bbe58caecd20ce7b13a457c3873c8e3d0d2431&quot;&gt;&lt;a href=&quot;https://math-is-beautiful.tumblr.com/post/51311383632/thatclimbergirl-perfect-calc-3-cheat-sheet&quot;&gt;https://math-is-beautiful.tumblr.com/post/51311383632/thatclimbergirl-perfect-calc-3-cheat-sheet&lt;/a&gt;&lt;/div&gt;
+  &lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
+  &lt;h2&gt;Quadratic Surfaces&lt;h3&gt;
+      &lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/0GtiHvDJQih1Tl_btyWLOA/144307279035&quot; data-did=&quot;da39a3ee5e6b4b0d3255bfef95601890afd80709&quot;&gt;&lt;a href=&quot;https://maryssnotes.tumblr.com/post/144307279035&quot;&gt;https://maryssnotes.tumblr.com/post/144307279035&lt;/a&gt;&lt;/div&gt;
+      &lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
+      &lt;p&gt;Lamar University &lt;a src=&quot;https://tutorial.math.lamar.edu/classes/calciii/quadricsurfaces.aspx&quot;&gt;Quadratic Surfaces&lt;/a&gt;&lt;/p&gt;
+      &lt;embed width=&quot;960px&quot; height=&quot;540px&quot; src=&quot;https://tutorial.math.lamar.edu/classes/calciii/quadricsurfaces.aspx&quot; /&gt;
+&lt;/h3&gt;&lt;/h2&gt;&lt;/section&gt;
+&lt;section&gt;
+  &lt;div&gt;
+    &lt;h1&gt;Multivariable Calculus&lt;/h1&gt;
+    &lt;h2&gt;Part B: Chain Rule, Gradient and Directional Derivatives
+      &lt;h3&gt;SESSION 32: TOTAL DIFFERENTIALS AND THE CHAIN RULE&lt;h3&gt;&lt;a href=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/pages/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-32-total-differentials-and-the-chain-rule&quot;&gt;&lt;img width=&quot;30%&quot; height=&quot;30%&quot; style=&quot;background-color: black&quot; src=&quot;https://ocw.mit.edu/images/ocw_logo_white.png&quot; alt=&quot;mit open logo&quot; /&gt;&lt;/a&gt;
+          &lt;div&gt;
+            &lt;div id=&quot;carousel-ID&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot; data-interval=&quot;5000&quot; data-toggle=&quot;tooltip&quot; title=&quot;tap either L/R side to change slide&quot; data-placement=&quot;top&quot;&gt;
+              &lt;ol class=&quot;carousel-indicators&quot;&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;0&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;1&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;2&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;3&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;4&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;5&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;6&quot;&gt;&lt;/li&gt;
+                &lt;li data-target=&quot;#carousel-ID&quot; data-slide-to=&quot;7&quot;&gt;&lt;/li&gt;
+              &lt;/ol&gt;
+              &lt;div class=&quot;carousel-inner&quot;&gt;
+                &lt;div class=&quot;carousel-item active&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/a40329958a2be8a6f70907c34566d3f7_MIT18_02SC_L11Brds_1.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/2713e2b490cfa00d2ad6d47f471c604b_MIT18_02SC_L11Brds_2.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/80ac969832467ddaf4196b0da0db8ffd_MIT18_02SC_L11Brds_3.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/9dbea420fd18a9d357220e305fdfc414_MIT18_02SC_L11Brds_4.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/30f0a36c8cac4192de97cddf3e376464_MIT18_02SC_L11Brds_5.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/9a92310816e9134b187b649f7ff3a6fc_MIT18_02SC_L11Brds_6.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/e77ab5b4d1fc17cfaab31e1bae5e5228_MIT18_02SC_L11Brds_7.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;carousel-item&quot;&gt;
+                  &lt;!-- IMAGE GOES HERE --&gt;
+                  &lt;img src=&quot;https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/30b633f664386c2e4f8052666e1dc424_MIT18_02SC_L11Brds_8.png&quot; class=&quot;d-block w-100&quot; alt=&quot;carousel image&quot; /&gt;
+                &lt;/div&gt;
+              &lt;/div&gt;
+              &lt;a class=&quot;carousel-control-prev&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/test-html/#carousel-ID&quot; role=&quot;button&quot; data-slide=&quot;prev&quot;&gt;
+                &lt;span class=&quot;carousel-control-prev-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+                &lt;span class=&quot;sr-only&quot;&gt;Previous&lt;/span&gt;
+              &lt;/a&gt;
+              &lt;a class=&quot;carousel-control-next&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/test-html/#carousel-ID&quot; role=&quot;button&quot; data-slide=&quot;next&quot;&gt;
+                &lt;span class=&quot;carousel-control-next-icon&quot; aria-hidden=&quot;true&quot;&gt;&lt;/span&gt;
+                &lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;
+              &lt;/a&gt;
+            &lt;/div&gt;
+            &lt;section&gt;
+          &lt;/section&gt;&lt;/div&gt;
+          &lt;!-- id=bsr-wrapper --&gt;
+          &lt;script src=&quot;https://code.jquery.com/jquery-3.4.1.min.js&quot;&gt;&lt;/script&gt;
+          &lt;script src=&quot;https://code.jquery.com/ui/1.12.1/jquery-ui.js&quot;&gt;&lt;/script&gt;
+          &lt;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+          &lt;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/h2&gt;&lt;/div&gt;&lt;/section&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Abstract Algebra?</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/abstract/"/>
+		<updated>2022-07-05T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/math/abstract/</id>
+		<content type="html">&lt;h2&gt;Theory Printouts&lt;/h2&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/cjA61w3&quot;&gt;&lt;a href=&quot;https://imgur.com/a/cjA61w3&quot;&gt;For reddit&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/atU8ZD9&quot;&gt;&lt;a href=&quot;https://imgur.com/a/atU8ZD9&quot;&gt;Updated: Intro Ring and Field Theory Cheat Sheet&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/IGJSbFJ&quot;&gt;&lt;a href=&quot;https://imgur.com/a/IGJSbFJ&quot;&gt;Updated Galois Theory Sheet&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/ha96a7R&quot;&gt;&lt;a href=&quot;https://imgur.com/a/ha96a7R&quot;&gt;Introductory Complex Analysis Cheat Sheet v2&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Theory Diagram&lt;/h2&gt;
+&lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/Ch4dtqpgBCbs9w5p2t0oJg/58038150439&quot; data-did=&quot;da39a3ee5e6b4b0d3255bfef95601890afd80709&quot;&gt;&lt;a href=&quot;https://math-is-beautiful.tumblr.com/post/58038150439&quot;&gt;https://math-is-beautiful.tumblr.com/post/58038150439&lt;/a&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Functions Introduction</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/func/"/>
+		<updated>2022-07-03T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/math/func/</id>
+		<content type="html">&lt;h2&gt;FUNCTIONS&lt;h2&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=x&quot; alt=&quot;x&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/kahamkom8c?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=x^{2}&quot; alt=&quot;x&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/syis78tlpo?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=x^{3}&quot; alt=&quot;x&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/1epsvqyloe?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=\sqrt{x}&quot; alt=&quot;sqrt x&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/efdii2fk66?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=\sqrt[3]{x}&quot; alt=&quot;sqrt[3]{x}&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/gvhocgvslv?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=e^{x}&quot; alt=&quot;exp&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/yao6fsrndo?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=\ln(x)&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/fmniheitob?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=\frac&amp;space;1&amp;space;x&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/h4kv4ohhwx?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=sin(x)&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/drshd4d2ta?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=cos(x)&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/z2srullydd?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=abs(x)&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/3mqmxivk8e?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;f(x)=floor(x)&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe src=&quot;https://www.desmos.com/calculator/ebosxd0bzm?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    &lt;img src=&quot;https://latex.codecogs.com/svg.image?\huge&amp;space;Tranformations&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;1080px&quot; src=&quot;https://www.desmos.com/calculator/gjxaovcfec&quot;&gt;&lt;/iframe&gt;
+    &lt;hr /&gt;
+    
+    &lt;script src=&quot;https://code.jquery.com/jquery-3.4.1.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://code.jquery.com/ui/1.12.1/jquery-ui.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js&quot; integrity=&quot;sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js&quot; integrity=&quot;sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6&quot; crossorigin=&quot;anonymous&quot;&gt;&lt;/script&gt;
+&lt;/h2&gt;&lt;/h2&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Running Multivariable Resources</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/long-integral/"/>
+		<updated>2022-04-10T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/math/long-integral/</id>
+		<content type="html">&lt;script type=&quot;”text/javascript”&quot; src=&quot;https://uncertaintysedge.github.io/posts/math/long-integral/%E2%80%9Dhttp://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML%E2%80%9D&quot;&gt;&lt;/script&gt;
+&lt;h2&gt;VIDEO&lt;/h2&gt;
+    
+    &lt;a href=&quot;https://youtu.be/33h_LnwwZCc&quot;&gt;Watch on YouTube Instead&lt;/a&gt;
+    
+    &lt;div&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/33h_LnwwZCc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+    
+    &lt;h1&gt;This equation solves for the area depicted in this graph:&lt;/h1&gt;
+    
+    &lt;div&gt;
+      &lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
+       &lt;mfrac&gt;
+        &lt;mrow&gt;
+         &lt;mi&gt;acos&lt;/mi&gt;
+         &lt;mo&gt;&amp;#8290;&lt;/mo&gt;
+         &lt;mrow&gt;
+          &lt;mo&gt;(&lt;/mo&gt;
+          &lt;mrow&gt;
+           &lt;mi&gt;cos&lt;/mi&gt;
+           &lt;mo&gt;&amp;#8290;&lt;/mo&gt;
+           &lt;mi&gt;x&lt;/mi&gt;
+          &lt;/mrow&gt;
+          &lt;mo&gt;)&lt;/mo&gt;
+         &lt;/mrow&gt;
+        &lt;/mrow&gt;
+        &lt;mrow&gt;
+         &lt;mn&gt;1&lt;/mn&gt;
+         &lt;mo&gt;+&lt;/mo&gt;
+         &lt;mrow&gt;
+          &lt;mn&gt;2&lt;/mn&gt;
+          &lt;mo&gt;&amp;#8290;&lt;/mo&gt;
+          &lt;mi&gt;cos&lt;/mi&gt;
+          &lt;mo&gt;&amp;#8290;&lt;/mo&gt;
+          &lt;mi&gt;x&lt;/mi&gt;
+         &lt;/mrow&gt;
+        &lt;/mrow&gt;
+       &lt;/mfrac&gt;
+      &lt;/math&gt;
+    &lt;/div&gt;
+     
+    &lt;div&gt;
+&lt;iframe src=&quot;https://www.desmos.com/calculator/gdjv0roxft?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
 
-&lt;/html&gt;
 </content>
 	</entry>
 	
