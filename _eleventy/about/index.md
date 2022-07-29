@@ -7,9 +7,9 @@ eleventyNavigation:
   order: 3
 ---
 
-# The Author
+## The Author
 * Welcome to my "content site"
 
-# The Website
+## The Website
 * Generated with [11ty](https://www.11ty.dev/)
 * Icons from [Bootstrap](https://icons.getbootstrap.com/)

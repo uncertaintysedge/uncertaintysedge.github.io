@@ -24,25 +24,26 @@ def main():
 	# root.rowconfigure(0, weight=1)
 	root.geometry("300x100")
 
-	_eleventy = r"C:\root\uncertaintysedge.github.io\_eleventy"
+	_ELEVENTY = r"C:\root\uncertaintysedge.github.io\_ELEVENTY"
 	def build_serve():
 		# os.system("""echo Starting""")
 		# os.system("""npx @11ty/eleventy""")
 		# 0s.system("""npm run s""")
-		subprocess.call(["echo", "starting..."], cwd=_eleventy, shell=True)
-		subprocess.call(["cd"], cwd=_eleventy, shell=True)
-		subprocess.call(["npx.cmd", "@11ty/eleventy"], cwd=_eleventy, shell=True)
-		subprocess.call(["npm.cmd", "run", "s"], cwd=_eleventy, shell=True)
+		subprocess.call(["echo", "starting..."], cwd=_ELEVENTY, shell=True)
+		subprocess.call(["cd"], cwd=_ELEVENTY, shell=True)
+		subprocess.call(["npx.cmd", "@11ty/eleventy"], cwd=_ELEVENTY, shell=True)
+		subprocess.call(["npm.cmd", "run", "s"], cwd=_ELEVENTY, shell=True)
+		root.destroy()
 		return 0
 
-	blog_dir = r"C:\root\uncertaintysedge.github.io"
+	BLOG_DIR = r"C:\root\uncertaintysedge.github.io"
 	def git():
-		subprocess.call(["cd"], cwd=blog_dir, shell=True)
-		subprocess.call("git pull".split(), cwd=blog_dir, shell=True)
-		subprocess.call("git add -A".split(), cwd=blog_dir, shell=True)
-		subprocess.call(['git', 'commit', '-m', '"{}"'.format(msg.get())], cwd=blog_dir, shell=True)
-		subprocess.call("git push".split(), cwd=blog_dir, shell=True)
-		subprocess.call(["echo", "...completed"], cwd=_eleventy, shell=True)
+		subprocess.call(["cd"], cwd=BLOG_DIR, shell=True)
+		subprocess.call("git pull".split(), cwd=BLOG_DIR, shell=True)
+		subprocess.call("git add -A".split(), cwd=BLOG_DIR, shell=True)
+		subprocess.call(['git', 'commit', '-m', '"{}"'.format(msg.get())], cwd=BLOG_DIR, shell=True)
+		subprocess.call("git push".split(), cwd=BLOG_DIR, shell=True)
+		subprocess.call(["echo", "...completed"], cwd=_ELEVENTY, shell=True)
 		return 0
 
 	build_serve_button = ttk.Button(root, text="Build & Serve", default="active", command=build_serve)
