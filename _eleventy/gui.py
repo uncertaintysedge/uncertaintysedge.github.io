@@ -25,9 +25,12 @@ def test():
 	root.geometry("300x100")
 
 	def build_serve():
-		system("""echo Starting""")
-		system("""npx @11ty/eleventy""")
-		system("""npm run s""")
+		# system("""echo Starting""")
+		# system("""npx @11ty/eleventy""")
+		# system("""npm run s""")
+		system("""echo Starting
+		npx @11ty/eleventy
+		npm run s""")
 
 	def git(*args):
 		system("cd ../")
