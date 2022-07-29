@@ -41,6 +41,7 @@ def test():
 		subprocess.call("git add -A".split(), cwd=blog_dir, shell=True)
 		subprocess.call(['git', 'commit', '-m', '"{}"'.format(msg.get())], cwd=blog_dir, shell=True)
 		subprocess.call("git push".split(), cwd=blog_dir, shell=True)
+		subprocess.call(["echo", "...completed"], cwd=_eleventy, shell=True)
 		# call("git pull")
 		# call("git add -A")
 		# call('git commit -m "{}"'.format(msg.get()))
