@@ -9,7 +9,6 @@ from tkinter import ttk
 
 from os import system
 import sys
-import admin
 
 def test():
 	# https://stackoverflow.com/a/19719292
@@ -35,7 +34,7 @@ def test():
 		system("cd")
 		system("git pull")
 		system("git add -A")
-		system("git commit -m " + msg.get())
+		system('git commit -m "{}"'.format(msg.get()))
 		system("git push -u master")
 		system("cd _eleventy")
 
