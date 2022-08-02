@@ -62,22 +62,7 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uncertaintysedge.github.io/tags/second-tag/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -92,6 +77,21 @@
   </url>
   
   <url>
+    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uncertaintysedge.github.io/tags/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
@@ -102,7 +102,12 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/posts/math/lin-quo/</loc>
+    <loc>https://uncertaintysedge.github.io/posts/math/_lin-quo/</loc>
+    <lastmod>2022-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/linear-quotes/</loc>
     <lastmod>2022-07-29</lastmod>
   </url>
 </urlset>

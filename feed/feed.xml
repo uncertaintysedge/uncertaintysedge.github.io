@@ -13,77 +13,198 @@
 	</author>
 	
 	<entry>
-		<title>3b1b Linear Algebra Quotes</title>
-		<link href="https://uncertaintysedge.github.io/posts/math/lin-quo/"/>
+		<title>HTML &quot;3b1b Linear Algebra Quotes&quot;</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/linear-quotes/"/>
 		<updated>2022-07-29T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/math/lin-quo/</id>
+		<id>https://uncertaintysedge.github.io/posts/math/linear-quotes/</id>
+		<content type="html">&lt;p&gt;This post, A, includes the content of Grant Sanderson&#39;s quotes, and B, tests Eleventy&#39;s MD &amp; HTML preprocessing&lt;/p&gt;&lt;p&gt;
+
+&lt;/p&gt;&lt;p&gt;These quotes are from &lt;a href=&quot;https://www.3blue1brown.com/topics/linear-algebra&quot;&gt;The Essence of Linear Algebra&lt;/a&gt;  by Grant Sanderson.&lt;/p&gt;
+
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-0-essence-of-linear-algebra-preview&quot; tabindex=&quot;-1&quot;&gt;Chapter 0: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eola-preview&quot;&gt;Essence of linear algebra preview&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-0-essence-of-linear-algebra-preview&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+There is hardly any theory which is more elementary  than linear algebra, in spite of the fact that generations  of professors and textbook writers have obscured its  simplicity by preposterous calculations with matrices.
+&lt;/blockquote&gt;
+&lt;p&gt;-Jean Dieudonn&#39;e&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-1-vectors-what-even-are-they&quot; tabindex=&quot;-1&quot;&gt;Chapter 1: &lt;a href=&quot;https://www.3blue1brown.com/lessons/vectors&quot;&gt;Vectors, what even are they?&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-1-vectors-what-even-are-they&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+The introduction of numbers as coordinates is an act of violence.
+&lt;/blockquote&gt;
+&lt;p&gt;-Hermann Weyl&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-2-linear-combinations-span-and-basis-vectors&quot; tabindex=&quot;-1&quot;&gt;Chapter 2: &lt;a href=&quot;https://www.3blue1brown.com/lessons/span&quot;&gt;Linear combinations, span, and basis vectors&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-2-linear-combinations-span-and-basis-vectors&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.
+&lt;/blockquote&gt;
+&lt;p&gt;-Angus K. Rodgers&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-3-linear-transformations-and-matrices&quot; tabindex=&quot;-1&quot;&gt;Chapter 3: &lt;a href=&quot;https://www.3blue1brown.com/lessons/linear-transformations&quot;&gt;Linear transformations and matrices&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-3-linear-transformations-and-matrices&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Unfortunately, no one can be told what the Matrix is. You have to see it for yourself. [Surprisingly apt words on the importance of visualizing matrix operations.]
+&lt;/blockquote&gt;
+&lt;p&gt;-Morpheus&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-4-matrix-multiplication-as-composition&quot; tabindex=&quot;-1&quot;&gt;Chapter 4: &lt;a href=&quot;https://www.3blue1brown.com/lessons/matrix-multiplication&quot;&gt;Matrix multiplication as composition&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-4-matrix-multiplication-as-composition&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out.
+&lt;/blockquote&gt;
+&lt;p&gt;-Emil Artin&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-5-three-dimensional-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 5: &lt;a href=&quot;https://www.3blue1brown.com/lessons/3d-transformations&quot;&gt;Three-dimensional linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-5-three-dimensional-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+LISA: Well, where&#39;s my dad?
+FRINK: Well, it should be obvious to even the most  dimwitted individual who holds an advanced degree  in hyperbolic topology that Homer Simpson has stumbled into...[dramatic pause]...the third dimension.
+&lt;/blockquote&gt;
+&lt;p&gt;-The Simpsons&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-6-the-determinant&quot; tabindex=&quot;-1&quot;&gt;Chapter 6: &lt;a href=&quot;https://www.3blue1brown.com/lessons/determinant&quot;&gt;The determinant&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-6-the-determinant&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+The purpose of computation is insight, not numbers.
+&lt;/blockquote&gt;
+&lt;p&gt;-Richard Hamming&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-7-inverse-matrices-column-space-and-null-space&quot; tabindex=&quot;-1&quot;&gt;Chapter 7: &lt;a href=&quot;https://www.3blue1brown.com/lessons/inverse-matrices&quot;&gt;Inverse matrices, column space and null space&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-7-inverse-matrices-column-space-and-null-space&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+To ask the right question is harder than to answer it.
+&lt;/blockquote&gt;
+&lt;p&gt;-Georg Cantor&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; tabindex=&quot;-1&quot;&gt;Chapter 8: &lt;a href=&quot;https://www.3blue1brown.com/lessons/nonsquare-matrices&quot;&gt;Nonsquare matrices as transformations between dimensions&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+On this quiz, I asked you to find the determinant of a
+2x3 matrix.
+Some of you, to my great amusement, actually tried to do this.
+&lt;/blockquote&gt;
+&lt;p&gt;-Anonymous Professor&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-9-dot-products-and-duality&quot; tabindex=&quot;-1&quot;&gt;Chapter 9: &lt;a href=&quot;https://www.3blue1brown.com/lessons/dot-products&quot;&gt;Dot products and duality&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-9-dot-products-and-duality&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+CALVIN: You know, I don&#39;t think math is a science, I think it&#39;s a religion.
+HOBBES: A religion?
+CALVIN: Yeah. All these equations are like miracles. You take two numbers and when you add them, they magically become one &lt;strong&gt;new&lt;/strong&gt; number! No one can say how it happens. You either believe it or you don&#39;t.
+&lt;/blockquote&gt;
+&lt;p&gt;-Calvin &amp;amp; Hobbes&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-10-cross-products&quot; tabindex=&quot;-1&quot;&gt;Chapter 10: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products&quot;&gt;Cross products&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-10-cross-products&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+From [Grothendieck], I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious.
+&lt;/blockquote&gt;
+&lt;p&gt;-Pierre Deligne&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-11-cross-products-in-the-light-of-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 11: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products-extended&quot;&gt;Cross products in the light of linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-11-cross-products-in-the-light-of-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Every dimension is special.
+&lt;/blockquote&gt;
+&lt;p&gt;-Jeff Lagarias&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-12-cramer-s-rule-explained-geometrically&quot; tabindex=&quot;-1&quot;&gt;Chapter 12: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cramers-rule&quot;&gt;Cramer&#39;s rule, explained geometrically&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-12-cramer-s-rule-explained-geometrically&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+JERRY: Ah, you&#39;re crazy!
+KRAMER: Am I? Or am I so sane that you just blew your mind?
+JERRY: It&#39;s impossible!
+KRAMER: Is it?! Or is it so possible your head is spinning like a top?
+&lt;/blockquote&gt;
+&lt;p&gt;-Seinfeld&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-13-change-of-basis&quot; tabindex=&quot;-1&quot;&gt;Chapter 13: &lt;a href=&quot;https://www.3blue1brown.com/lessons/change-of-basis&quot;&gt;Change of basis&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-13-change-of-basis&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Mathematics is the art of giving the same name to different things.
+&lt;/blockquote&gt;
+&lt;p&gt;-Henri Poincar&#39;e&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-14-eigenvectors-and-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 14: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eigenvalues&quot;&gt;Eigenvectors and eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-14-eigenvectors-and-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Last time, I asked: &amp;quot;What does mathematics mean to you?&amp;quot;, and some people answered: &amp;quot;The manipulation of numbers, the manipulation of structures.&amp;quot; And if I had asked what music means to you, would you have answered: &amp;quot;The manipulation of notes&amp;quot;?
+&lt;/blockquote&gt;
+&lt;p&gt;-Serge Lang&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-15-a-quick-trick-for-computing-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 15: &lt;a href=&quot;https://www.3blue1brown.com/lessons/quick-eigen&quot;&gt;A quick trick for computing eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-15-a-quick-trick-for-computing-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+I&#39;m assuming you know what eigenvalues are. Not This!
+&lt;/blockquote&gt;
+&lt;p&gt;-Pi Creature&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+&lt;h3 id=&quot;chapter-16-abstract-vector-spaces&quot; tabindex=&quot;-1&quot;&gt;Chapter 16: &lt;a href=&quot;https://www.3blue1brown.com/lessons/abstract-vector-spaces&quot;&gt;Abstract vector spaces&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/linear-quotes/#chapter-16-abstract-vector-spaces&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;&lt;blockquote&gt;
+Such axioms, together with other unmotivated definitions, serve mathematicians mainly by making it difficult for the uninitiated to master their subject, thereby elevating its authority.
+&lt;/blockquote&gt;
+&lt;p&gt;-Vladmir Arnold&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Markdown &quot;3b1b Linear Algebra Quotes&quot;</title>
+		<link href="https://uncertaintysedge.github.io/posts/math/_lin-quo/"/>
+		<updated>2022-07-29T00:00:00Z</updated>
+		<id>https://uncertaintysedge.github.io/posts/math/_lin-quo/</id>
 		<content type="html">&lt;p&gt;These quotes are from &lt;a href=&quot;https://www.3blue1brown.com/topics/linear-algebra&quot;&gt;The Essence of Linear Algebra&lt;/a&gt;  by Grant Sanderson.&lt;/p&gt;
-&lt;h3 id=&quot;chapter-0-essence-of-linear-algebra-preview&quot; tabindex=&quot;-1&quot;&gt;Chapter 0: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eola-preview&quot;&gt;Essence of linear algebra preview&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-0-essence-of-linear-algebra-preview&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-0-essence-of-linear-algebra-preview&quot; tabindex=&quot;-1&quot;&gt;Chapter 0: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eola-preview&quot;&gt;Essence of linear algebra preview&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-0-essence-of-linear-algebra-preview&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;There is hardly any theory which is more elementary  than linear algebra, in spite of the fact that generations  of professors and textbook writers have obscured its  simplicity by preposterous calculations with matrices.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Jean Dieudonn&#39;e&lt;/p&gt;
-&lt;h3 id=&quot;chapter-1-vectors-what-even-are-they&quot; tabindex=&quot;-1&quot;&gt;Chapter 1: &lt;a href=&quot;https://www.3blue1brown.com/lessons/vectors&quot;&gt;Vectors, what even are they?&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-1-vectors-what-even-are-they&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-1-vectors-what-even-are-they&quot; tabindex=&quot;-1&quot;&gt;Chapter 1: &lt;a href=&quot;https://www.3blue1brown.com/lessons/vectors&quot;&gt;Vectors, what even are they?&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-1-vectors-what-even-are-they&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The introduction of numbers as coordinates is an act of violence.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Hermann Weyl&lt;/p&gt;
-&lt;h3 id=&quot;chapter-2-linear-combinations-span-and-basis-vectors&quot; tabindex=&quot;-1&quot;&gt;Chapter 2: &lt;a href=&quot;https://www.3blue1brown.com/lessons/span&quot;&gt;Linear combinations, span, and basis vectors&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-2-linear-combinations-span-and-basis-vectors&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-2-linear-combinations-span-and-basis-vectors&quot; tabindex=&quot;-1&quot;&gt;Chapter 2: &lt;a href=&quot;https://www.3blue1brown.com/lessons/span&quot;&gt;Linear combinations, span, and basis vectors&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-2-linear-combinations-span-and-basis-vectors&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Angus K. Rodgers&lt;/p&gt;
-&lt;h3 id=&quot;chapter-3-linear-transformations-and-matrices&quot; tabindex=&quot;-1&quot;&gt;Chapter 3: &lt;a href=&quot;https://www.3blue1brown.com/lessons/linear-transformations&quot;&gt;Linear transformations and matrices&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-3-linear-transformations-and-matrices&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-3-linear-transformations-and-matrices&quot; tabindex=&quot;-1&quot;&gt;Chapter 3: &lt;a href=&quot;https://www.3blue1brown.com/lessons/linear-transformations&quot;&gt;Linear transformations and matrices&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-3-linear-transformations-and-matrices&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Unfortunately, no one can be told what the Matrix is. You have to see it for yourself. [Surprisingly apt words on the importance of visualizing matrix operations.]&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Morpheus&lt;/p&gt;
-&lt;h3 id=&quot;chapter-4-matrix-multiplication-as-composition&quot; tabindex=&quot;-1&quot;&gt;Chapter 4: &lt;a href=&quot;https://www.3blue1brown.com/lessons/matrix-multiplication&quot;&gt;Matrix multiplication as composition&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-4-matrix-multiplication-as-composition&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-4-matrix-multiplication-as-composition&quot; tabindex=&quot;-1&quot;&gt;Chapter 4: &lt;a href=&quot;https://www.3blue1brown.com/lessons/matrix-multiplication&quot;&gt;Matrix multiplication as composition&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-4-matrix-multiplication-as-composition&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Emil Artin&lt;/p&gt;
-&lt;h3 id=&quot;chapter-5-three-dimensional-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 5: &lt;a href=&quot;https://www.3blue1brown.com/lessons/3d-transformations&quot;&gt;Three-dimensional linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-5-three-dimensional-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-5-three-dimensional-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 5: &lt;a href=&quot;https://www.3blue1brown.com/lessons/3d-transformations&quot;&gt;Three-dimensional linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-5-three-dimensional-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;LISA: Well, where&#39;s my dad?
 FRINK: Well, it should be obvious to even the most  dimwitted individual who holds an advanced degree  in hyperbolic topology that Homer Simpson has stumbled into...[dramatic pause]...the third dimension.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-The Simpsons&lt;/p&gt;
-&lt;h3 id=&quot;chapter-6-the-determinant&quot; tabindex=&quot;-1&quot;&gt;Chapter 6: &lt;a href=&quot;https://www.3blue1brown.com/lessons/determinant&quot;&gt;The determinant&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-6-the-determinant&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-6-the-determinant&quot; tabindex=&quot;-1&quot;&gt;Chapter 6: &lt;a href=&quot;https://www.3blue1brown.com/lessons/determinant&quot;&gt;The determinant&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-6-the-determinant&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The purpose of computation is insight, not numbers.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Richard Hamming&lt;/p&gt;
-&lt;h3 id=&quot;chapter-7-inverse-matrices-column-space-and-null-space&quot; tabindex=&quot;-1&quot;&gt;Chapter 7: &lt;a href=&quot;https://www.3blue1brown.com/lessons/inverse-matrices&quot;&gt;Inverse matrices, column space and null space&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-7-inverse-matrices-column-space-and-null-space&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-7-inverse-matrices-column-space-and-null-space&quot; tabindex=&quot;-1&quot;&gt;Chapter 7: &lt;a href=&quot;https://www.3blue1brown.com/lessons/inverse-matrices&quot;&gt;Inverse matrices, column space and null space&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-7-inverse-matrices-column-space-and-null-space&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;To ask the right question is harder than to answer it.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Georg Cantor&lt;/p&gt;
-&lt;h3 id=&quot;chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; tabindex=&quot;-1&quot;&gt;Chapter 8: &lt;a href=&quot;https://www.3blue1brown.com/lessons/nonsquare-matrices&quot;&gt;Nonsquare matrices as transformations between dimensions&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; tabindex=&quot;-1&quot;&gt;Chapter 8: &lt;a href=&quot;https://www.3blue1brown.com/lessons/nonsquare-matrices&quot;&gt;Nonsquare matrices as transformations between dimensions&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;On this quiz, I asked you to find the determinant of a
 2x3 matrix.
 Some of you, to my great amusement, actually tried to do this.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Anonymous Professor&lt;/p&gt;
-&lt;h3 id=&quot;chapter-9-dot-products-and-duality&quot; tabindex=&quot;-1&quot;&gt;Chapter 9: &lt;a href=&quot;https://www.3blue1brown.com/lessons/dot-products&quot;&gt;Dot products and duality&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-9-dot-products-and-duality&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-9-dot-products-and-duality&quot; tabindex=&quot;-1&quot;&gt;Chapter 9: &lt;a href=&quot;https://www.3blue1brown.com/lessons/dot-products&quot;&gt;Dot products and duality&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-9-dot-products-and-duality&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;CALVIN: You know, I don&#39;t think math is a science, I think it&#39;s a religion.
 HOBBES: A religion?
 CALVIN: Yeah. All these equations are like miracles. You take two numbers and when you add them, they magically become one &lt;strong&gt;new&lt;/strong&gt; number! No one can say how it happens. You either believe it or you don&#39;t.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Calvin &amp;amp; Hobbes&lt;/p&gt;
-&lt;h3 id=&quot;chapter-10-cross-products&quot; tabindex=&quot;-1&quot;&gt;Chapter 10: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products&quot;&gt;Cross products&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-10-cross-products&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-10-cross-products&quot; tabindex=&quot;-1&quot;&gt;Chapter 10: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products&quot;&gt;Cross products&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-10-cross-products&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;From [Grothendieck], I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Pierre Deligne&lt;/p&gt;
-&lt;h3 id=&quot;chapter-11-cross-products-in-the-light-of-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 11: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products-extended&quot;&gt;Cross products in the light of linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-11-cross-products-in-the-light-of-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-11-cross-products-in-the-light-of-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 11: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products-extended&quot;&gt;Cross products in the light of linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-11-cross-products-in-the-light-of-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Every dimension is special.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Jeff Lagarias&lt;/p&gt;
-&lt;h3 id=&quot;chapter-12-cramer-s-rule-explained-geometrically&quot; tabindex=&quot;-1&quot;&gt;Chapter 12: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cramers-rule&quot;&gt;Cramer&#39;s rule, explained geometrically&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-12-cramer-s-rule-explained-geometrically&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-12-cramer-s-rule-explained-geometrically&quot; tabindex=&quot;-1&quot;&gt;Chapter 12: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cramers-rule&quot;&gt;Cramer&#39;s rule, explained geometrically&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-12-cramer-s-rule-explained-geometrically&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;JERRY: Ah, you&#39;re crazy!
 KRAMER: Am I? Or am I so sane that you just blew your mind?
@@ -91,22 +212,22 @@ JERRY: It&#39;s impossible!
 KRAMER: Is it?! Or is it so possible your head is spinning like a top?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Seinfeld&lt;/p&gt;
-&lt;h3 id=&quot;chapter-13-change-of-basis&quot; tabindex=&quot;-1&quot;&gt;Chapter 13: &lt;a href=&quot;https://www.3blue1brown.com/lessons/change-of-basis&quot;&gt;Change of basis&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-13-change-of-basis&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-13-change-of-basis&quot; tabindex=&quot;-1&quot;&gt;Chapter 13: &lt;a href=&quot;https://www.3blue1brown.com/lessons/change-of-basis&quot;&gt;Change of basis&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-13-change-of-basis&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Mathematics is the art of giving the same name to different things.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Henri Poincar&#39;e&lt;/p&gt;
-&lt;h3 id=&quot;chapter-14-eigenvectors-and-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 14: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eigenvalues&quot;&gt;Eigenvectors and eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-14-eigenvectors-and-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-14-eigenvectors-and-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 14: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eigenvalues&quot;&gt;Eigenvectors and eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-14-eigenvectors-and-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Last time, I asked: &amp;quot;What does mean to you?&amp;quot;, and some people answered: &amp;quot;The manipulation of numbers, the manipulation of structures.&amp;quot; And if I had asked what music means to you, would you have answered: &amp;quot;The manipulation of notes&amp;quot;?&lt;/p&gt;
+&lt;p&gt;Last time, I asked: &amp;quot;What does mathematics mean to you?&amp;quot;, and some people answered: &amp;quot;The manipulation of numbers, the manipulation of structures.&amp;quot; And if I had asked what music means to you, would you have answered: &amp;quot;The manipulation of notes&amp;quot;?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Serge Lang&lt;/p&gt;
-&lt;h3 id=&quot;chapter-15-a-quick-trick-for-computing-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 15: &lt;a href=&quot;https://www.3blue1brown.com/lessons/quick-eigen&quot;&gt;A quick trick for computing eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-15-a-quick-trick-for-computing-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-15-a-quick-trick-for-computing-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 15: &lt;a href=&quot;https://www.3blue1brown.com/lessons/quick-eigen&quot;&gt;A quick trick for computing eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-15-a-quick-trick-for-computing-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I&#39;m assuming you know what eigenvalues are. Not This!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;-Pi Creature&lt;/p&gt;
-&lt;h3 id=&quot;chapter-16-abstract-vector-spaces&quot; tabindex=&quot;-1&quot;&gt;Chapter 16: &lt;a href=&quot;https://www.3blue1brown.com/lessons/abstract-vector-spaces&quot;&gt;Abstract vector spaces&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/lin-quo/#chapter-16-abstract-vector-spaces&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;chapter-16-abstract-vector-spaces&quot; tabindex=&quot;-1&quot;&gt;Chapter 16: &lt;a href=&quot;https://www.3blue1brown.com/lessons/abstract-vector-spaces&quot;&gt;Abstract vector spaces&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-16-abstract-vector-spaces&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Such axioms, together with other unmotivated definitions, serve mathematicians mainly by making it difficult for the uninitiated to master their subject, thereby elevating its authority.&lt;/p&gt;
 &lt;/blockquote&gt;

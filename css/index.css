@@ -14,8 +14,9 @@
   --background-color: #fff;
 
   --text-color: var(--color-gray-90);
-  --text-color-link: #082840;
-  --text-color-link-visited: #17050F;
+  --text-color-link: DarkOliveGreen;
+  --text-color-link-visited: ForestGreen;
+  --text-color-link-hover:  DarkGreen;
 }
 
 /*I don't think the world is ready for dark mode*/
@@ -51,11 +52,11 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p,
+/*p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
-}
+  max-width: 37.5em;
+}*/
 p,
 .tmpl-post li {
   line-height: 1.45;
@@ -63,9 +64,13 @@ p,
 
 a[href] {
   color: var(--text-color-link);
+  text-decoration: none;
 }
 a[href]:visited {
   color: var(--text-color-link-visited);
+}
+a[href]:hover {
+  color:  var(--text-color-link-hover);
 }
 
 main {
@@ -272,4 +277,14 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+/* Additional */
+.card {
+  padding: 1em;
+}
+.card > div {
+  padding: 1em;
+  background-color: var(--color-gray-50);
+  border-radius: 0.5em;
 }
