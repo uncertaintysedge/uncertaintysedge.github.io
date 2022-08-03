@@ -881,46 +881,43 @@ Such axioms, together with other unmotivated definitions, serve mathematicians m
 		<link href="https://uncertaintysedge.github.io/posts/math/abstract/"/>
 		<updated>2022-07-05T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/math/abstract/</id>
-		<content type="html">&lt;h2&gt;Theory Printouts&lt;/h2&gt;
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/cjA61w3&quot;&gt;&lt;a href=&quot;https://imgur.com/a/cjA61w3&quot;&gt;Intro Group Theory&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/atU8ZD9&quot;&gt;&lt;a href=&quot;https://imgur.com/a/atU8ZD9&quot;&gt;Updated: Intro Ring and Field Theory Cheat Sheet&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/IGJSbFJ&quot;&gt;&lt;a href=&quot;https://imgur.com/a/IGJSbFJ&quot;&gt;Updated Galois Theory Sheet&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/ha96a7R&quot;&gt;&lt;a href=&quot;https://imgur.com/a/ha96a7R&quot;&gt;Introductory Complex Analysis Cheat Sheet v2&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+		<content type="html">&lt;h2&gt;THEORY PRINTOUTS&lt;/h2&gt;
+
 &lt;hr /&gt;
-&lt;h2&gt;Theory Printout Pictures&lt;h2&gt;
+&lt;h2&gt;Theory Printout Pictures&lt;/h2&gt;
 &lt;div class=&quot;card&quot;&gt;&lt;div&gt;
-	&lt;h3&gt;Group Theory&lt;h3&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Group.png&quot; /&gt;
-&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;h3&gt;Group Theory&lt;/h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Group.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;a href=&quot;https://imgur.com/a/cjA61w3&quot;&gt;Source&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;card&quot;&gt;&lt;div&gt;
-	&lt;h3&gt;Ring and Field Theory&lt;h3&gt;
-		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf1.png&quot; /&gt;
-		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf2.png&quot; /&gt;
-&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;h3&gt;Ring and Field Theory&lt;/h3&gt;
+		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf1.png&quot; alt=&quot;printout&quot; /&gt;
+		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf2.png&quot; alt=&quot;printout&quot; /&gt;
+		&lt;a href=&quot;https://imgur.com/a/atU8ZD9&quot;&gt;Source&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;card&quot;&gt;&lt;div&gt;
-	&lt;h3&gt;Complex Analysis&lt;h3&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca1.png&quot; /&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca2.png&quot; /&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca3.png&quot; /&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca4.png&quot; /&gt;
-&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;h3&gt;Complex Analysis&lt;/h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca1.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca2.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca3.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca4.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;a href=&quot;https://imgur.com/a/IGJSbFJ&quot;&gt;Source&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
 &lt;div class=&quot;card&quot;&gt;&lt;div&gt;
-	&lt;h3&gt;Galois Theory&lt;h3&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois1.png&quot; /&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois2.png&quot; /&gt;
-	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois3.png&quot; /&gt;
-&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+	&lt;h3&gt;Galois Theory&lt;/h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois1.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois2.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois3.png&quot; alt=&quot;printout&quot; /&gt;
+	&lt;a href=&quot;https://imgur.com/a/ha96a7R&quot;&gt;Source&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
 &lt;h1&gt;BONUS:&lt;/h1&gt;
 &lt;h2&gt;Wikipedia Spaces Diagram&lt;/h2&gt;
 &lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/Ch4dtqpgBCbs9w5p2t0oJg/58038150439&quot; data-did=&quot;da39a3ee5e6b4b0d3255bfef95601890afd80709&quot;&gt;&lt;a href=&quot;https://math-is-beautiful.tumblr.com/post/58038150439&quot;&gt;https://math-is-beautiful.tumblr.com/post/58038150439&lt;/a&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
-&lt;/h2&gt;&lt;/h2&gt;</content>
+</content>
 	</entry>
 	
 	<entry>
