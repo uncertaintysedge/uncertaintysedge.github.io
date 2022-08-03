@@ -288,3 +288,6 @@ a[href].direct-link:focus:visited,
   background-color: var(--color-gray-50);
   border-radius: 0.5em;
 }
+.card > div * {
+  width:  100%;
+}

@@ -2,26 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://uncertaintysedge.github.io/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/posts/secondpost/</loc>
-    <lastmod>2018-07-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/posts/thirdpost/</loc>
-    <lastmod>2018-08-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/posts/fourthpost/</loc>
-    <lastmod>2018-09-30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uncertaintysedge.github.io/posts/math/long-integral/</loc>
     <lastmod>2022-04-10</lastmod>
   </url>
@@ -62,32 +42,12 @@
   </url>
   
   <url>
-    <loc>https://uncertaintysedge.github.io/tags/second-tag/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
     <loc>https://uncertaintysedge.github.io/tags/math/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
     <loc>https://uncertaintysedge.github.io/tags/test/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/tags/another-tag/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/tags/posts-with-two-tags/</loc>
-    <lastmod>2022-07-10</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/tags/number-2/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -99,11 +59,6 @@
   <url>
     <loc>https://uncertaintysedge.github.io/posts/math/tax/</loc>
     <lastmod>2022-07-16</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://uncertaintysedge.github.io/posts/math/_lin-quo/</loc>
-    <lastmod>2022-07-29</lastmod>
   </url>
   
   <url>

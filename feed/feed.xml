@@ -134,108 +134,6 @@ Such axioms, together with other unmotivated definitions, serve mathematicians m
 	</entry>
 	
 	<entry>
-		<title>Markdown &quot;3b1b Linear Algebra Quotes&quot;</title>
-		<link href="https://uncertaintysedge.github.io/posts/math/_lin-quo/"/>
-		<updated>2022-07-29T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/math/_lin-quo/</id>
-		<content type="html">&lt;p&gt;These quotes are from &lt;a href=&quot;https://www.3blue1brown.com/topics/linear-algebra&quot;&gt;The Essence of Linear Algebra&lt;/a&gt;  by Grant Sanderson.&lt;/p&gt;
-&lt;h3 id=&quot;chapter-0-essence-of-linear-algebra-preview&quot; tabindex=&quot;-1&quot;&gt;Chapter 0: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eola-preview&quot;&gt;Essence of linear algebra preview&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-0-essence-of-linear-algebra-preview&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;There is hardly any theory which is more elementary  than linear algebra, in spite of the fact that generations  of professors and textbook writers have obscured its  simplicity by preposterous calculations with matrices.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Jean Dieudonn&#39;e&lt;/p&gt;
-&lt;h3 id=&quot;chapter-1-vectors-what-even-are-they&quot; tabindex=&quot;-1&quot;&gt;Chapter 1: &lt;a href=&quot;https://www.3blue1brown.com/lessons/vectors&quot;&gt;Vectors, what even are they?&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-1-vectors-what-even-are-they&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The introduction of numbers as coordinates is an act of violence.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Hermann Weyl&lt;/p&gt;
-&lt;h3 id=&quot;chapter-2-linear-combinations-span-and-basis-vectors&quot; tabindex=&quot;-1&quot;&gt;Chapter 2: &lt;a href=&quot;https://www.3blue1brown.com/lessons/span&quot;&gt;Linear combinations, span, and basis vectors&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-2-linear-combinations-span-and-basis-vectors&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Angus K. Rodgers&lt;/p&gt;
-&lt;h3 id=&quot;chapter-3-linear-transformations-and-matrices&quot; tabindex=&quot;-1&quot;&gt;Chapter 3: &lt;a href=&quot;https://www.3blue1brown.com/lessons/linear-transformations&quot;&gt;Linear transformations and matrices&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-3-linear-transformations-and-matrices&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Unfortunately, no one can be told what the Matrix is. You have to see it for yourself. [Surprisingly apt words on the importance of visualizing matrix operations.]&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Morpheus&lt;/p&gt;
-&lt;h3 id=&quot;chapter-4-matrix-multiplication-as-composition&quot; tabindex=&quot;-1&quot;&gt;Chapter 4: &lt;a href=&quot;https://www.3blue1brown.com/lessons/matrix-multiplication&quot;&gt;Matrix multiplication as composition&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-4-matrix-multiplication-as-composition&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;It is my experience that proofs involving matrices can be shortened by 50% if one throws the matrices out.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Emil Artin&lt;/p&gt;
-&lt;h3 id=&quot;chapter-5-three-dimensional-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 5: &lt;a href=&quot;https://www.3blue1brown.com/lessons/3d-transformations&quot;&gt;Three-dimensional linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-5-three-dimensional-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;LISA: Well, where&#39;s my dad?
-FRINK: Well, it should be obvious to even the most  dimwitted individual who holds an advanced degree  in hyperbolic topology that Homer Simpson has stumbled into...[dramatic pause]...the third dimension.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-The Simpsons&lt;/p&gt;
-&lt;h3 id=&quot;chapter-6-the-determinant&quot; tabindex=&quot;-1&quot;&gt;Chapter 6: &lt;a href=&quot;https://www.3blue1brown.com/lessons/determinant&quot;&gt;The determinant&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-6-the-determinant&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The purpose of computation is insight, not numbers.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Richard Hamming&lt;/p&gt;
-&lt;h3 id=&quot;chapter-7-inverse-matrices-column-space-and-null-space&quot; tabindex=&quot;-1&quot;&gt;Chapter 7: &lt;a href=&quot;https://www.3blue1brown.com/lessons/inverse-matrices&quot;&gt;Inverse matrices, column space and null space&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-7-inverse-matrices-column-space-and-null-space&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;To ask the right question is harder than to answer it.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Georg Cantor&lt;/p&gt;
-&lt;h3 id=&quot;chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; tabindex=&quot;-1&quot;&gt;Chapter 8: &lt;a href=&quot;https://www.3blue1brown.com/lessons/nonsquare-matrices&quot;&gt;Nonsquare matrices as transformations between dimensions&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-8-nonsquare-matrices-as-transformations-between-dimensions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;On this quiz, I asked you to find the determinant of a
-2x3 matrix.
-Some of you, to my great amusement, actually tried to do this.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Anonymous Professor&lt;/p&gt;
-&lt;h3 id=&quot;chapter-9-dot-products-and-duality&quot; tabindex=&quot;-1&quot;&gt;Chapter 9: &lt;a href=&quot;https://www.3blue1brown.com/lessons/dot-products&quot;&gt;Dot products and duality&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-9-dot-products-and-duality&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;CALVIN: You know, I don&#39;t think math is a science, I think it&#39;s a religion.
-HOBBES: A religion?
-CALVIN: Yeah. All these equations are like miracles. You take two numbers and when you add them, they magically become one &lt;strong&gt;new&lt;/strong&gt; number! No one can say how it happens. You either believe it or you don&#39;t.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Calvin &amp;amp; Hobbes&lt;/p&gt;
-&lt;h3 id=&quot;chapter-10-cross-products&quot; tabindex=&quot;-1&quot;&gt;Chapter 10: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products&quot;&gt;Cross products&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-10-cross-products&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;From [Grothendieck], I have also learned not to take glory in the difficulty of a proof: difficulty means we have not understood. The idea is to be able to paint a landscape in which the proof is obvious.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Pierre Deligne&lt;/p&gt;
-&lt;h3 id=&quot;chapter-11-cross-products-in-the-light-of-linear-transformations&quot; tabindex=&quot;-1&quot;&gt;Chapter 11: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cross-products-extended&quot;&gt;Cross products in the light of linear transformations&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-11-cross-products-in-the-light-of-linear-transformations&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Every dimension is special.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Jeff Lagarias&lt;/p&gt;
-&lt;h3 id=&quot;chapter-12-cramer-s-rule-explained-geometrically&quot; tabindex=&quot;-1&quot;&gt;Chapter 12: &lt;a href=&quot;https://www.3blue1brown.com/lessons/cramers-rule&quot;&gt;Cramer&#39;s rule, explained geometrically&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-12-cramer-s-rule-explained-geometrically&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;JERRY: Ah, you&#39;re crazy!
-KRAMER: Am I? Or am I so sane that you just blew your mind?
-JERRY: It&#39;s impossible!
-KRAMER: Is it?! Or is it so possible your head is spinning like a top?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Seinfeld&lt;/p&gt;
-&lt;h3 id=&quot;chapter-13-change-of-basis&quot; tabindex=&quot;-1&quot;&gt;Chapter 13: &lt;a href=&quot;https://www.3blue1brown.com/lessons/change-of-basis&quot;&gt;Change of basis&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-13-change-of-basis&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Mathematics is the art of giving the same name to different things.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Henri Poincar&#39;e&lt;/p&gt;
-&lt;h3 id=&quot;chapter-14-eigenvectors-and-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 14: &lt;a href=&quot;https://www.3blue1brown.com/lessons/eigenvalues&quot;&gt;Eigenvectors and eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-14-eigenvectors-and-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Last time, I asked: &amp;quot;What does mathematics mean to you?&amp;quot;, and some people answered: &amp;quot;The manipulation of numbers, the manipulation of structures.&amp;quot; And if I had asked what music means to you, would you have answered: &amp;quot;The manipulation of notes&amp;quot;?&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Serge Lang&lt;/p&gt;
-&lt;h3 id=&quot;chapter-15-a-quick-trick-for-computing-eigenvalues&quot; tabindex=&quot;-1&quot;&gt;Chapter 15: &lt;a href=&quot;https://www.3blue1brown.com/lessons/quick-eigen&quot;&gt;A quick trick for computing eigenvalues&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-15-a-quick-trick-for-computing-eigenvalues&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I&#39;m assuming you know what eigenvalues are. Not This!&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Pi Creature&lt;/p&gt;
-&lt;h3 id=&quot;chapter-16-abstract-vector-spaces&quot; tabindex=&quot;-1&quot;&gt;Chapter 16: &lt;a href=&quot;https://www.3blue1brown.com/lessons/abstract-vector-spaces&quot;&gt;Abstract vector spaces&lt;/a&gt; &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/math/_lin-quo/#chapter-16-abstract-vector-spaces&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Such axioms, together with other unmotivated definitions, serve mathematicians mainly by making it difficult for the uninitiated to master their subject, thereby elevating its authority.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;-Vladmir Arnold&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
 		<title>Math Taxonomy</title>
 		<link href="https://uncertaintysedge.github.io/posts/math/tax/"/>
 		<updated>2022-07-16T00:00:00Z</updated>
@@ -979,12 +877,12 @@ KRAMER: Is it?! Or is it so possible your head is spinning like a top?&lt;/p&gt;
 	</entry>
 	
 	<entry>
-		<title>Abstract Algebra?</title>
+		<title>Test Abstract Algebra?</title>
 		<link href="https://uncertaintysedge.github.io/posts/math/abstract/"/>
 		<updated>2022-07-05T00:00:00Z</updated>
 		<id>https://uncertaintysedge.github.io/posts/math/abstract/</id>
 		<content type="html">&lt;h2&gt;Theory Printouts&lt;/h2&gt;
-&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/cjA61w3&quot;&gt;&lt;a href=&quot;https://imgur.com/a/cjA61w3&quot;&gt;For reddit&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/cjA61w3&quot;&gt;&lt;a href=&quot;https://imgur.com/a/cjA61w3&quot;&gt;Intro Group Theory&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/atU8ZD9&quot;&gt;&lt;a href=&quot;https://imgur.com/a/atU8ZD9&quot;&gt;Updated: Intro Ring and Field Theory Cheat Sheet&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
@@ -993,10 +891,36 @@ KRAMER: Is it?! Or is it so possible your head is spinning like a top?&lt;/p&gt;
 &lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/ha96a7R&quot;&gt;&lt;a href=&quot;https://imgur.com/a/ha96a7R&quot;&gt;Introductory Complex Analysis Cheat Sheet v2&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 &lt;hr /&gt;
-&lt;h2&gt;Theory Diagram&lt;/h2&gt;
+&lt;h2&gt;Theory Printout Pictures&lt;h2&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+	&lt;h3&gt;Group Theory&lt;h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Group.png&quot; /&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+	&lt;h3&gt;Ring and Field Theory&lt;h3&gt;
+		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf1.png&quot; /&gt;
+		&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/rf2.png&quot; /&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+	&lt;h3&gt;Complex Analysis&lt;h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca1.png&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca2.png&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca3.png&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/ca4.png&quot; /&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;card&quot;&gt;&lt;div&gt;
+	&lt;h3&gt;Galois Theory&lt;h3&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois1.png&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois2.png&quot; /&gt;
+	&lt;img src=&quot;https://uncertaintysedge.github.io/img/theory/Galois3.png&quot; /&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;h1&gt;BONUS:&lt;/h1&gt;
+&lt;h2&gt;Wikipedia Spaces Diagram&lt;/h2&gt;
 &lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/Ch4dtqpgBCbs9w5p2t0oJg/58038150439&quot; data-did=&quot;da39a3ee5e6b4b0d3255bfef95601890afd80709&quot;&gt;&lt;a href=&quot;https://math-is-beautiful.tumblr.com/post/58038150439&quot;&gt;https://math-is-beautiful.tumblr.com/post/58038150439&lt;/a&gt;&lt;/div&gt;
 &lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
-</content>
+&lt;/h2&gt;&lt;/h2&gt;</content>
 	</entry>
 	
 	<entry>
@@ -1104,58 +1028,6 @@ KRAMER: Is it?! Or is it so possible your head is spinning like a top?&lt;/p&gt;
 &lt;iframe src=&quot;https://www.desmos.com/calculator/gdjv0roxft?embed&quot; width=&quot;500&quot; height=&quot;500&quot; style=&quot;border: 1px solid #ccc&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
-</content>
-	</entry>
-	
-	<entry>
-		<title>Example fourth post.</title>
-		<link href="https://uncertaintysedge.github.io/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/fourthpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Example third post.</title>
-		<link href="https://uncertaintysedge.github.io/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/thirdpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token deleted-sign deleted language-js&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/thirdpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Example second post.</title>
-		<link href="https://uncertaintysedge.github.io/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/secondpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://uncertaintysedge.github.io/posts/firstpost/&quot;&gt;First post&lt;/a&gt;
-&lt;a href=&quot;https://uncertaintysedge.github.io/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>Example first post.</title>
-		<link href="https://uncertaintysedge.github.io/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00Z</updated>
-		<id>https://uncertaintysedge.github.io/posts/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot; tabindex=&quot;-1&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;https://uncertaintysedge.github.io/posts/firstpost/#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-diff-js&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;// this is a command&lt;br /&gt;function myCommand() {&lt;br /&gt;&lt;span class=&quot;token inserted-sign inserted language-js&quot;&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token prefix inserted&quot;&gt;+&lt;/span&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;br /&gt;&lt;/span&gt;}&lt;br /&gt;&lt;br /&gt;// Test with a line break above this line.&lt;br /&gt;console.log(&#39;Test&#39;);&lt;/code&gt;&lt;/pre&gt;
 </content>
 	</entry>
 </feed>
