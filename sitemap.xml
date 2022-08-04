@@ -17,6 +17,21 @@
   </url>
   
   <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/multi-self-bk/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/multi-self-wb/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/math/multi-self-yt/</loc>
+    <lastmod>2022-07-05</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uncertaintysedge.github.io/posts/math/test-html/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
@@ -42,12 +57,27 @@
   </url>
   
   <url>
+    <loc>https://uncertaintysedge.github.io/tags/data/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
     <loc>https://uncertaintysedge.github.io/tags/math/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
   <url>
     <loc>https://uncertaintysedge.github.io/tags/test/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/multivar-study/</loc>
+    <lastmod>2022-07-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/tags/draft/</loc>
     <lastmod>2022-07-10</lastmod>
   </url>
   
@@ -64,5 +94,10 @@
   <url>
     <loc>https://uncertaintysedge.github.io/posts/math/linear-quotes/</loc>
     <lastmod>2022-07-29</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://uncertaintysedge.github.io/posts/data/majors/</loc>
+    <lastmod>2022-08-04</lastmod>
   </url>
 </urlset>
